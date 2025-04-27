@@ -26,7 +26,7 @@ This project is designed to build an end-to-end machine learning pipeline that e
 - Description of the dataset: contains student query records, including timestamps, categories, satisfaction ratings, response times, and resolution status.
 - Explanation of the data source (e.g., CSV files) and what each key column represents.
 
-### Database Integration
+### Database Integration (Add in project in future)
 
 - Overview of how data will be imported into a relational database (e.g., SQLite or MySQL).
 - Discussion about using an ORM or database connectivity tool to manage data persistence.
