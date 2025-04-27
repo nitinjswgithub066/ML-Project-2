@@ -1,0 +1,1501 @@
+Query_ID,Timestamp,Student_ID,Query_Text,Query_Category,Satisfaction_Score,Response_Time,Resolved_Flag
+1,2025-04-01 09:05:00,1069,What is the deadline for fee payment?,Technical,4.6,17,No
+2,2025-04-01 09:10:00,1021,How can I get a transcript?,Administrative,3.9,10,No
+3,2025-04-01 09:15:00,1060,I need help with course selection.,Administrative,4.4,22,Yes
+4,2025-04-01 09:20:00,1057,How can I get a transcript?,Administrative,3.7,40,Yes
+5,2025-04-01 09:25:00,1073,My grade has not been updated.,Academic,4.8,44,No
+6,2025-04-01 09:30:00,1015,How do I register for courses?,Administrative,4.8,23,No
+7,2025-04-01 09:35:00,1034,When is the semester starting?,Financial,3.0,18,No
+8,2025-04-01 09:40:00,1073,How can I get a transcript?,Administrative,3.6,21,No
+9,2025-04-01 09:45:00,1090,How can I get a transcript?,Academic,3.1,17,Yes
+10,2025-04-01 09:50:00,1052,I need help with course selection.,Academic,3.7,35,No
+11,2025-04-01 09:55:00,1048,What is the deadline for fee payment?,Administrative,3.8,38,No
+12,2025-04-01 10:00:00,1034,When is the semester starting?,Financial,4.9,36,No
+13,2025-04-01 10:05:00,1011,How do I register for courses?,Administrative,3.4,24,Yes
+14,2025-04-01 10:10:00,1032,I cannot access my student portal.,Academic,4.9,42,No
+15,2025-04-01 10:15:00,1056,When is the semester starting?,Administrative,3.2,12,No
+16,2025-04-01 10:20:00,1076,My grade has not been updated.,Technical,3.7,17,Yes
+17,2025-04-01 10:25:00,1063,Is there any scholarship available?,Financial,4.9,21,No
+18,2025-04-01 10:30:00,1004,Website shows error 404.,Academic,3.7,28,No
+19,2025-04-01 10:35:00,1084,Website shows error 404.,Administrative,3.9,21,Yes
+20,2025-04-01 10:40:00,1052,I need help with course selection.,Administrative,3.2,37,Yes
+21,2025-04-01 10:45:00,1018,I cannot access my student portal.,Administrative,3.6,37,Yes
+22,2025-04-01 10:50:00,1062,My grade has not been updated.,Administrative,4.6,36,No
+23,2025-04-01 10:55:00,1011,I cannot access my student portal.,Administrative,4.1,42,Yes
+24,2025-04-01 11:00:00,1052,"I forgot my password, need assistance.",Academic,4.1,34,Yes
+25,2025-04-01 11:05:00,1083,Website shows error 404.,Financial,4.2,17,No
+26,2025-04-01 11:10:00,1001,"I forgot my password, need assistance.",Academic,3.6,21,No
+27,2025-04-01 11:15:00,1049,"I forgot my password, need assistance.",Administrative,4.5,23,No
+28,2025-04-01 11:20:00,1002,My grade has not been updated.,Administrative,4.8,40,No
+29,2025-04-01 11:25:00,1012,I cannot access my student portal.,Academic,3.2,37,No
+30,2025-04-01 11:30:00,1051,When is the semester starting?,Administrative,3.1,37,Yes
+31,2025-04-01 11:35:00,1051,I cannot access my student portal.,Technical,4.9,22,No
+32,2025-04-01 11:40:00,1067,I need help with course selection.,Financial,4.7,16,No
+33,2025-04-01 11:45:00,1083,What is the deadline for fee payment?,Technical,3.9,12,No
+34,2025-04-01 11:50:00,1016,How can I get a transcript?,Technical,3.7,30,Yes
+35,2025-04-01 11:55:00,1086,I cannot access my student portal.,Administrative,4.4,42,No
+36,2025-04-01 12:00:00,1001,Website shows error 404.,Technical,4.4,27,No
+37,2025-04-01 12:05:00,1082,How do I register for courses?,Academic,3.5,20,No
+38,2025-04-01 12:10:00,1083,I need help with course selection.,Financial,4.3,37,Yes
+39,2025-04-01 12:15:00,1025,"I forgot my password, need assistance.",Administrative,3.0,10,Yes
+40,2025-04-01 12:20:00,1025,When is the semester starting?,Financial,4.2,40,Yes
+41,2025-04-01 12:25:00,1090,My grade has not been updated.,Financial,4.2,32,Yes
+42,2025-04-01 12:30:00,1090,How can I get a transcript?,Technical,3.6,38,Yes
+43,2025-04-01 12:35:00,1010,I cannot access my student portal.,Academic,3.8,18,Yes
+44,2025-04-01 12:40:00,1095,How do I register for courses?,Academic,3.9,43,No
+45,2025-04-01 12:45:00,1037,How can I get a transcript?,Academic,4.0,27,No
+46,2025-04-01 12:50:00,1025,I need help with course selection.,Financial,3.2,17,No
+47,2025-04-01 12:55:00,1043,"I forgot my password, need assistance.",Academic,4.1,20,Yes
+48,2025-04-01 13:00:00,1050,How do I register for courses?,Financial,4.0,17,Yes
+49,2025-04-01 13:05:00,1045,"I forgot my password, need assistance.",Financial,3.2,16,Yes
+50,2025-04-01 13:10:00,1045,How do I register for courses?,Technical,4.5,11,No
+51,2025-04-01 13:15:00,1060,Is there any scholarship available?,Technical,3.5,36,Yes
+52,2025-04-01 13:20:00,1061,I cannot access my student portal.,Administrative,3.9,18,No
+53,2025-04-01 13:25:00,1062,Website shows error 404.,Academic,4.3,37,Yes
+54,2025-04-01 13:30:00,1068,Is there any scholarship available?,Financial,3.9,23,No
+55,2025-04-01 13:35:00,1031,"I forgot my password, need assistance.",Financial,3.0,28,No
+56,2025-04-01 13:40:00,1098,How do I register for courses?,Financial,3.4,10,Yes
+57,2025-04-01 13:45:00,1094,Website shows error 404.,Financial,3.2,17,No
+58,2025-04-01 13:50:00,1028,What is the deadline for fee payment?,Technical,3.9,23,Yes
+59,2025-04-01 13:55:00,1044,Is there any scholarship available?,Academic,4.7,22,Yes
+60,2025-04-01 14:00:00,1035,When is the semester starting?,Financial,4.5,23,No
+61,2025-04-01 14:05:00,1005,"I forgot my password, need assistance.",Technical,4.1,14,Yes
+62,2025-04-01 14:10:00,1005,When is the semester starting?,Technical,4.2,37,Yes
+63,2025-04-01 14:15:00,1030,My grade has not been updated.,Administrative,4.0,29,No
+64,2025-04-01 14:20:00,1006,How can I get a transcript?,Administrative,4.9,17,No
+65,2025-04-01 14:25:00,1009,How can I get a transcript?,Technical,4.2,34,Yes
+66,2025-04-01 14:30:00,1010,Website shows error 404.,Academic,4.3,43,Yes
+67,2025-04-01 14:35:00,1067,I need help with course selection.,Financial,4.9,36,Yes
+68,2025-04-01 14:40:00,1030,What is the deadline for fee payment?,Financial,3.0,42,Yes
+69,2025-04-01 14:45:00,1036,Is there any scholarship available?,Academic,4.3,28,Yes
+70,2025-04-01 14:50:00,1079,My grade has not been updated.,Technical,3.8,10,Yes
+71,2025-04-01 14:55:00,1025,What is the deadline for fee payment?,Financial,4.8,40,No
+72,2025-04-01 15:00:00,1036,I cannot access my student portal.,Administrative,4.3,35,Yes
+73,2025-04-01 15:05:00,1079,I need help with course selection.,Financial,4.0,39,No
+74,2025-04-01 15:10:00,1065,How can I get a transcript?,Technical,4.7,24,Yes
+75,2025-04-01 15:15:00,1027,How do I register for courses?,Academic,4.9,22,Yes
+76,2025-04-01 15:20:00,1014,How do I register for courses?,Financial,4.1,43,Yes
+77,2025-04-01 15:25:00,1026,What is the deadline for fee payment?,Financial,4.6,32,No
+78,2025-04-01 15:30:00,1012,What is the deadline for fee payment?,Administrative,3.5,21,Yes
+79,2025-04-01 15:35:00,1057,I need help with course selection.,Financial,3.3,20,Yes
+80,2025-04-01 15:40:00,1019,I cannot access my student portal.,Administrative,3.3,19,Yes
+81,2025-04-01 15:45:00,1017,My grade has not been updated.,Financial,3.3,20,Yes
+82,2025-04-01 15:50:00,1059,My grade has not been updated.,Technical,3.1,27,Yes
+83,2025-04-01 15:55:00,1070,"I forgot my password, need assistance.",Technical,4.8,13,No
+84,2025-04-01 16:00:00,1036,I need help with course selection.,Financial,4.3,15,Yes
+85,2025-04-01 16:05:00,1053,Is there any scholarship available?,Administrative,3.3,12,Yes
+86,2025-04-01 16:10:00,1062,"I forgot my password, need assistance.",Administrative,3.7,11,Yes
+87,2025-04-01 16:15:00,1088,I cannot access my student portal.,Academic,4.9,40,No
+88,2025-04-01 16:20:00,1060,How can I get a transcript?,Financial,4.7,22,Yes
+89,2025-04-01 16:25:00,1069,How do I register for courses?,Academic,3.6,34,No
+90,2025-04-01 16:30:00,1064,I need help with course selection.,Financial,4.2,43,No
+91,2025-04-01 16:35:00,1004,"I forgot my password, need assistance.",Technical,4.0,28,Yes
+92,2025-04-01 16:40:00,1097,"I forgot my password, need assistance.",Technical,4.5,15,Yes
+93,2025-04-01 16:45:00,1068,When is the semester starting?,Administrative,4.3,24,No
+94,2025-04-01 16:50:00,1089,When is the semester starting?,Financial,3.2,11,Yes
+95,2025-04-01 16:55:00,1007,How do I register for courses?,Administrative,3.7,33,Yes
+96,2025-04-01 17:00:00,1010,I cannot access my student portal.,Financial,3.3,30,Yes
+97,2025-04-01 17:05:00,1011,How do I register for courses?,Academic,3.4,42,Yes
+98,2025-04-01 17:10:00,1020,When is the semester starting?,Administrative,4.4,32,No
+99,2025-04-01 17:15:00,1093,Website shows error 404.,Academic,4.0,43,Yes
+100,2025-04-01 17:20:00,1042,"I forgot my password, need assistance.",Financial,5.0,13,No
+101,2025-04-01 17:25:00,1019,How can I get a transcript?,Administrative,3.0,22,No
+102,2025-04-01 17:30:00,1021,How can I get a transcript?,Administrative,4.1,32,Yes
+103,2025-04-01 17:35:00,1064,I cannot access my student portal.,Financial,4.5,27,No
+104,2025-04-01 17:40:00,1083,I need help with course selection.,Academic,4.6,26,Yes
+105,2025-04-01 17:45:00,1082,How can I get a transcript?,Administrative,4.9,42,No
+106,2025-04-01 17:50:00,1079,When is the semester starting?,Administrative,3.1,10,Yes
+107,2025-04-01 17:55:00,1019,What is the deadline for fee payment?,Technical,3.4,22,No
+108,2025-04-01 18:00:00,1020,I cannot access my student portal.,Academic,4.5,16,No
+109,2025-04-01 18:05:00,1031,How do I register for courses?,Technical,3.2,41,Yes
+110,2025-04-01 18:10:00,1049,How can I get a transcript?,Administrative,4.0,25,Yes
+111,2025-04-01 18:15:00,1039,Website shows error 404.,Administrative,4.3,11,Yes
+112,2025-04-01 18:20:00,1092,Website shows error 404.,Technical,4.1,39,No
+113,2025-04-01 18:25:00,1067,How do I register for courses?,Technical,4.8,31,Yes
+114,2025-04-01 18:30:00,1077,How do I register for courses?,Technical,3.1,20,Yes
+115,2025-04-01 18:35:00,1012,Website shows error 404.,Financial,4.6,16,Yes
+116,2025-04-01 18:40:00,1044,How do I register for courses?,Administrative,4.7,42,Yes
+117,2025-04-01 18:45:00,1074,What is the deadline for fee payment?,Administrative,3.2,16,Yes
+118,2025-04-01 18:50:00,1073,I cannot access my student portal.,Financial,3.2,24,Yes
+119,2025-04-01 18:55:00,1000,"I forgot my password, need assistance.",Technical,3.2,41,Yes
+120,2025-04-01 19:00:00,1084,How do I register for courses?,Financial,4.6,11,Yes
+121,2025-04-01 19:05:00,1097,My grade has not been updated.,Technical,4.3,36,Yes
+122,2025-04-01 19:10:00,1022,What is the deadline for fee payment?,Technical,4.8,32,No
+123,2025-04-01 19:15:00,1018,"I forgot my password, need assistance.",Technical,5.0,15,No
+124,2025-04-01 19:20:00,1054,I need help with course selection.,Financial,4.0,10,No
+125,2025-04-01 19:25:00,1034,How do I register for courses?,Financial,4.1,43,Yes
+126,2025-04-01 19:30:00,1000,I cannot access my student portal.,Technical,4.7,11,No
+127,2025-04-01 19:35:00,1072,How do I register for courses?,Technical,4.5,38,No
+128,2025-04-01 19:40:00,1075,Is there any scholarship available?,Administrative,3.1,25,No
+129,2025-04-01 19:45:00,1045,I cannot access my student portal.,Administrative,3.9,26,No
+130,2025-04-01 19:50:00,1020,My grade has not been updated.,Academic,3.2,40,No
+131,2025-04-01 19:55:00,1088,Website shows error 404.,Financial,4.8,43,No
+132,2025-04-01 20:00:00,1068,How can I get a transcript?,Administrative,5.0,19,No
+133,2025-04-01 20:05:00,1058,I need help with course selection.,Technical,3.4,36,Yes
+134,2025-04-01 20:10:00,1064,I cannot access my student portal.,Technical,4.0,41,Yes
+135,2025-04-01 20:15:00,1091,How can I get a transcript?,Technical,4.4,32,Yes
+136,2025-04-01 20:20:00,1069,I cannot access my student portal.,Administrative,3.3,39,No
+137,2025-04-01 20:25:00,1077,What is the deadline for fee payment?,Administrative,3.3,14,No
+138,2025-04-01 20:30:00,1000,My grade has not been updated.,Financial,4.5,16,No
+139,2025-04-01 20:35:00,1039,When is the semester starting?,Administrative,3.3,29,No
+140,2025-04-01 20:40:00,1043,I cannot access my student portal.,Administrative,4.8,25,No
+141,2025-04-01 20:45:00,1071,What is the deadline for fee payment?,Academic,4.8,43,Yes
+142,2025-04-01 20:50:00,1099,I cannot access my student portal.,Administrative,4.5,22,No
+143,2025-04-01 20:55:00,1077,When is the semester starting?,Academic,3.5,33,Yes
+144,2025-04-01 21:00:00,1043,Is there any scholarship available?,Academic,4.5,23,No
+145,2025-04-01 21:05:00,1063,I cannot access my student portal.,Administrative,4.7,27,No
+146,2025-04-01 21:10:00,1077,How can I get a transcript?,Technical,4.4,34,No
+147,2025-04-01 21:15:00,1028,I cannot access my student portal.,Technical,4.7,15,No
+148,2025-04-01 21:20:00,1083,Is there any scholarship available?,Technical,4.3,31,No
+149,2025-04-01 21:25:00,1067,How can I get a transcript?,Financial,3.0,11,Yes
+150,2025-04-01 21:30:00,1069,My grade has not been updated.,Academic,3.9,15,No
+151,2025-04-01 21:35:00,1002,"I forgot my password, need assistance.",Technical,4.8,27,No
+152,2025-04-01 21:40:00,1016,I cannot access my student portal.,Academic,3.8,38,No
+153,2025-04-01 21:45:00,1062,"I forgot my password, need assistance.",Technical,3.0,26,No
+154,2025-04-01 21:50:00,1075,What is the deadline for fee payment?,Administrative,3.6,40,No
+155,2025-04-01 21:55:00,1083,When is the semester starting?,Administrative,3.7,34,Yes
+156,2025-04-01 22:00:00,1098,How can I get a transcript?,Academic,4.3,14,Yes
+157,2025-04-01 22:05:00,1032,I cannot access my student portal.,Technical,3.9,18,Yes
+158,2025-04-01 22:10:00,1022,When is the semester starting?,Financial,4.4,36,No
+159,2025-04-01 22:15:00,1023,Is there any scholarship available?,Technical,4.0,20,No
+160,2025-04-01 22:20:00,1057,What is the deadline for fee payment?,Technical,3.2,14,Yes
+161,2025-04-01 22:25:00,1066,Is there any scholarship available?,Academic,3.3,28,No
+162,2025-04-01 22:30:00,1097,"I forgot my password, need assistance.",Financial,3.6,10,No
+163,2025-04-01 22:35:00,1084,Is there any scholarship available?,Academic,4.9,42,Yes
+164,2025-04-01 22:40:00,1041,I cannot access my student portal.,Administrative,4.1,28,Yes
+165,2025-04-01 22:45:00,1098,Is there any scholarship available?,Technical,4.8,43,No
+166,2025-04-01 22:50:00,1078,I need help with course selection.,Technical,4.8,12,No
+167,2025-04-01 22:55:00,1006,Website shows error 404.,Academic,3.4,11,No
+168,2025-04-01 23:00:00,1094,"I forgot my password, need assistance.",Academic,4.3,10,No
+169,2025-04-01 23:05:00,1023,Website shows error 404.,Administrative,4.3,39,Yes
+170,2025-04-01 23:10:00,1042,"I forgot my password, need assistance.",Administrative,4.3,25,No
+171,2025-04-01 23:15:00,1004,I need help with course selection.,Administrative,4.9,34,Yes
+172,2025-04-01 23:20:00,1057,"I forgot my password, need assistance.",Technical,4.4,27,No
+173,2025-04-01 23:25:00,1010,Website shows error 404.,Administrative,3.6,35,Yes
+174,2025-04-01 23:30:00,1071,What is the deadline for fee payment?,Academic,3.8,26,No
+175,2025-04-01 23:35:00,1082,When is the semester starting?,Technical,3.3,15,No
+176,2025-04-01 23:40:00,1085,Is there any scholarship available?,Administrative,4.1,10,Yes
+177,2025-04-01 23:45:00,1038,I cannot access my student portal.,Technical,4.6,15,No
+178,2025-04-01 23:50:00,1037,Website shows error 404.,Financial,3.2,23,No
+179,2025-04-01 23:55:00,1080,Is there any scholarship available?,Technical,4.8,17,No
+180,2025-04-02 00:00:00,1037,When is the semester starting?,Financial,4.1,36,Yes
+181,2025-04-02 00:05:00,1025,What is the deadline for fee payment?,Academic,3.6,10,No
+182,2025-04-02 00:10:00,1039,"I forgot my password, need assistance.",Academic,3.0,12,Yes
+183,2025-04-02 00:15:00,1094,"I forgot my password, need assistance.",Administrative,3.1,25,Yes
+184,2025-04-02 00:20:00,1092,My grade has not been updated.,Academic,3.1,26,Yes
+185,2025-04-02 00:25:00,1003,I need help with course selection.,Academic,4.8,37,No
+186,2025-04-02 00:30:00,1089,How can I get a transcript?,Academic,4.5,27,No
+187,2025-04-02 00:35:00,1046,What is the deadline for fee payment?,Technical,3.0,37,No
+188,2025-04-02 00:40:00,1062,My grade has not been updated.,Technical,4.0,23,Yes
+189,2025-04-02 00:45:00,1091,Is there any scholarship available?,Academic,3.3,16,Yes
+190,2025-04-02 00:50:00,1058,Is there any scholarship available?,Technical,3.7,28,No
+191,2025-04-02 00:55:00,1058,Website shows error 404.,Technical,4.0,27,Yes
+192,2025-04-02 01:00:00,1008,I need help with course selection.,Financial,4.8,14,Yes
+193,2025-04-02 01:05:00,1044,"I forgot my password, need assistance.",Academic,4.3,37,Yes
+194,2025-04-02 01:10:00,1088,I need help with course selection.,Financial,4.0,12,Yes
+195,2025-04-02 01:15:00,1044,I cannot access my student portal.,Technical,3.2,29,No
+196,2025-04-02 01:20:00,1068,When is the semester starting?,Technical,3.8,19,No
+197,2025-04-02 01:25:00,1084,How do I register for courses?,Administrative,4.7,28,Yes
+198,2025-04-02 01:30:00,1090,What is the deadline for fee payment?,Administrative,3.2,25,No
+199,2025-04-02 01:35:00,1032,"I forgot my password, need assistance.",Academic,4.8,22,Yes
+200,2025-04-02 01:40:00,1015,What is the deadline for fee payment?,Administrative,4.7,19,No
+201,2025-04-02 01:45:00,1062,When is the semester starting?,Administrative,3.5,27,No
+202,2025-04-02 01:50:00,1061,I need help with course selection.,Financial,4.7,17,Yes
+203,2025-04-02 01:55:00,1035,I need help with course selection.,Academic,3.2,36,Yes
+204,2025-04-02 02:00:00,1034,I cannot access my student portal.,Technical,4.8,37,No
+205,2025-04-02 02:05:00,1066,"I forgot my password, need assistance.",Financial,3.0,33,No
+206,2025-04-02 02:10:00,1075,My grade has not been updated.,Academic,3.1,18,No
+207,2025-04-02 02:15:00,1030,When is the semester starting?,Technical,4.3,29,Yes
+208,2025-04-02 02:20:00,1051,My grade has not been updated.,Technical,3.6,22,No
+209,2025-04-02 02:25:00,1053,My grade has not been updated.,Academic,4.1,15,No
+210,2025-04-02 02:30:00,1081,How can I get a transcript?,Financial,3.0,14,Yes
+211,2025-04-02 02:35:00,1040,"I forgot my password, need assistance.",Administrative,4.2,42,No
+212,2025-04-02 02:40:00,1038,Is there any scholarship available?,Academic,4.2,29,Yes
+213,2025-04-02 02:45:00,1071,How can I get a transcript?,Technical,4.5,23,No
+214,2025-04-02 02:50:00,1035,My grade has not been updated.,Administrative,5.0,31,Yes
+215,2025-04-02 02:55:00,1035,I need help with course selection.,Administrative,3.3,33,No
+216,2025-04-02 03:00:00,1087,When is the semester starting?,Financial,3.1,32,Yes
+217,2025-04-02 03:05:00,1075,When is the semester starting?,Financial,3.5,34,Yes
+218,2025-04-02 03:10:00,1069,"I forgot my password, need assistance.",Academic,4.0,32,Yes
+219,2025-04-02 03:15:00,1029,What is the deadline for fee payment?,Academic,3.2,31,Yes
+220,2025-04-02 03:20:00,1046,Website shows error 404.,Financial,3.7,27,No
+221,2025-04-02 03:25:00,1083,How can I get a transcript?,Financial,4.3,32,No
+222,2025-04-02 03:30:00,1014,My grade has not been updated.,Administrative,3.3,10,Yes
+223,2025-04-02 03:35:00,1072,My grade has not been updated.,Administrative,4.2,20,No
+224,2025-04-02 03:40:00,1025,What is the deadline for fee payment?,Financial,4.2,32,Yes
+225,2025-04-02 03:45:00,1092,How do I register for courses?,Academic,3.4,27,No
+226,2025-04-02 03:50:00,1048,I need help with course selection.,Academic,4.3,10,Yes
+227,2025-04-02 03:55:00,1043,How can I get a transcript?,Financial,4.9,34,No
+228,2025-04-02 04:00:00,1025,I need help with course selection.,Financial,4.8,11,No
+229,2025-04-02 04:05:00,1046,How can I get a transcript?,Technical,3.1,44,Yes
+230,2025-04-02 04:10:00,1000,Is there any scholarship available?,Technical,3.7,12,Yes
+231,2025-04-02 04:15:00,1079,How do I register for courses?,Financial,3.2,33,No
+232,2025-04-02 04:20:00,1035,How can I get a transcript?,Technical,3.9,38,No
+233,2025-04-02 04:25:00,1035,What is the deadline for fee payment?,Financial,4.7,18,No
+234,2025-04-02 04:30:00,1044,"I forgot my password, need assistance.",Administrative,4.1,21,No
+235,2025-04-02 04:35:00,1040,What is the deadline for fee payment?,Financial,5.0,35,Yes
+236,2025-04-02 04:40:00,1005,Website shows error 404.,Financial,3.6,28,Yes
+237,2025-04-02 04:45:00,1088,What is the deadline for fee payment?,Administrative,4.5,20,No
+238,2025-04-02 04:50:00,1021,"I forgot my password, need assistance.",Technical,4.6,20,No
+239,2025-04-02 04:55:00,1092,How can I get a transcript?,Financial,4.6,36,No
+240,2025-04-02 05:00:00,1092,Website shows error 404.,Financial,3.3,17,No
+241,2025-04-02 05:05:00,1086,What is the deadline for fee payment?,Financial,3.2,25,No
+242,2025-04-02 05:10:00,1065,I need help with course selection.,Technical,3.4,20,Yes
+243,2025-04-02 05:15:00,1054,I need help with course selection.,Technical,4.6,29,Yes
+244,2025-04-02 05:20:00,1092,I need help with course selection.,Technical,3.6,37,Yes
+245,2025-04-02 05:25:00,1036,My grade has not been updated.,Technical,4.1,33,No
+246,2025-04-02 05:30:00,1009,I need help with course selection.,Financial,4.2,41,No
+247,2025-04-02 05:35:00,1088,How can I get a transcript?,Academic,4.2,11,No
+248,2025-04-02 05:40:00,1074,When is the semester starting?,Academic,4.3,12,Yes
+249,2025-04-02 05:45:00,1040,Is there any scholarship available?,Academic,4.2,12,Yes
+250,2025-04-02 05:50:00,1051,How do I register for courses?,Administrative,3.5,41,Yes
+251,2025-04-02 05:55:00,1009,My grade has not been updated.,Administrative,4.7,41,No
+252,2025-04-02 06:00:00,1075,Website shows error 404.,Technical,3.5,22,No
+253,2025-04-02 06:05:00,1066,Website shows error 404.,Administrative,4.5,36,No
+254,2025-04-02 06:10:00,1017,Website shows error 404.,Financial,4.5,22,Yes
+255,2025-04-02 06:15:00,1062,I cannot access my student portal.,Administrative,4.7,10,No
+256,2025-04-02 06:20:00,1021,I need help with course selection.,Academic,5.0,43,No
+257,2025-04-02 06:25:00,1077,How do I register for courses?,Administrative,4.8,43,Yes
+258,2025-04-02 06:30:00,1028,"I forgot my password, need assistance.",Academic,4.3,13,No
+259,2025-04-02 06:35:00,1091,How can I get a transcript?,Administrative,4.1,22,No
+260,2025-04-02 06:40:00,1015,"I forgot my password, need assistance.",Academic,4.8,41,Yes
+261,2025-04-02 06:45:00,1013,Website shows error 404.,Technical,3.6,21,No
+262,2025-04-02 06:50:00,1084,When is the semester starting?,Academic,3.7,33,No
+263,2025-04-02 06:55:00,1020,My grade has not been updated.,Technical,3.2,38,No
+264,2025-04-02 07:00:00,1069,I need help with course selection.,Financial,3.4,42,No
+265,2025-04-02 07:05:00,1045,How can I get a transcript?,Technical,3.9,14,Yes
+266,2025-04-02 07:10:00,1049,"I forgot my password, need assistance.",Administrative,3.0,35,Yes
+267,2025-04-02 07:15:00,1069,"I forgot my password, need assistance.",Financial,4.2,12,No
+268,2025-04-02 07:20:00,1099,"I forgot my password, need assistance.",Technical,4.7,27,Yes
+269,2025-04-02 07:25:00,1029,How do I register for courses?,Technical,5.0,23,Yes
+270,2025-04-02 07:30:00,1051,What is the deadline for fee payment?,Administrative,4.2,19,No
+271,2025-04-02 07:35:00,1096,Website shows error 404.,Administrative,3.9,13,No
+272,2025-04-02 07:40:00,1089,How do I register for courses?,Technical,3.2,38,No
+273,2025-04-02 07:45:00,1079,I need help with course selection.,Financial,3.6,12,No
+274,2025-04-02 07:50:00,1023,My grade has not been updated.,Technical,4.4,26,Yes
+275,2025-04-02 07:55:00,1036,How do I register for courses?,Technical,4.4,27,Yes
+276,2025-04-02 08:00:00,1058,Is there any scholarship available?,Academic,4.9,17,Yes
+277,2025-04-02 08:05:00,1081,When is the semester starting?,Administrative,4.6,16,Yes
+278,2025-04-02 08:10:00,1074,"I forgot my password, need assistance.",Technical,4.3,31,No
+279,2025-04-02 08:15:00,1012,When is the semester starting?,Academic,4.7,24,Yes
+280,2025-04-02 08:20:00,1095,Is there any scholarship available?,Administrative,3.2,41,No
+281,2025-04-02 08:25:00,1095,Is there any scholarship available?,Technical,3.7,44,No
+282,2025-04-02 08:30:00,1052,Is there any scholarship available?,Financial,4.2,30,No
+283,2025-04-02 08:35:00,1018,Website shows error 404.,Technical,4.7,15,Yes
+284,2025-04-02 08:40:00,1033,I cannot access my student portal.,Financial,4.1,32,Yes
+285,2025-04-02 08:45:00,1057,How can I get a transcript?,Technical,4.0,25,Yes
+286,2025-04-02 08:50:00,1099,My grade has not been updated.,Financial,3.3,36,No
+287,2025-04-02 08:55:00,1003,What is the deadline for fee payment?,Technical,4.0,39,No
+288,2025-04-02 09:00:00,1069,What is the deadline for fee payment?,Technical,3.4,29,No
+289,2025-04-02 09:05:00,1050,My grade has not been updated.,Academic,3.7,40,Yes
+290,2025-04-02 09:10:00,1083,I need help with course selection.,Academic,3.2,22,No
+291,2025-04-02 09:15:00,1083,What is the deadline for fee payment?,Administrative,4.6,14,Yes
+292,2025-04-02 09:20:00,1046,What is the deadline for fee payment?,Administrative,3.9,18,Yes
+293,2025-04-02 09:25:00,1073,Website shows error 404.,Technical,4.2,10,Yes
+294,2025-04-02 09:30:00,1072,I cannot access my student portal.,Administrative,3.5,28,Yes
+295,2025-04-02 09:35:00,1086,What is the deadline for fee payment?,Academic,3.9,25,Yes
+296,2025-04-02 09:40:00,1009,How do I register for courses?,Administrative,3.4,43,Yes
+297,2025-04-02 09:45:00,1057,I cannot access my student portal.,Administrative,4.9,14,No
+298,2025-04-02 09:50:00,1031,My grade has not been updated.,Administrative,4.4,19,Yes
+299,2025-04-02 09:55:00,1045,Website shows error 404.,Academic,4.0,43,Yes
+300,2025-04-02 10:00:00,1031,My grade has not been updated.,Technical,5.0,27,No
+301,2025-04-02 10:05:00,1044,I need help with course selection.,Academic,3.5,38,Yes
+302,2025-04-02 10:10:00,1049,How can I get a transcript?,Academic,4.4,32,Yes
+303,2025-04-02 10:15:00,1016,What is the deadline for fee payment?,Academic,4.9,25,No
+304,2025-04-02 10:20:00,1023,My grade has not been updated.,Administrative,3.1,32,Yes
+305,2025-04-02 10:25:00,1032,I need help with course selection.,Technical,3.1,23,No
+306,2025-04-02 10:30:00,1078,My grade has not been updated.,Financial,4.1,30,Yes
+307,2025-04-02 10:35:00,1097,My grade has not been updated.,Technical,3.5,14,Yes
+308,2025-04-02 10:40:00,1010,Website shows error 404.,Academic,3.3,40,Yes
+309,2025-04-02 10:45:00,1080,How can I get a transcript?,Administrative,4.3,33,Yes
+310,2025-04-02 10:50:00,1011,My grade has not been updated.,Administrative,3.6,44,No
+311,2025-04-02 10:55:00,1058,"I forgot my password, need assistance.",Financial,4.0,40,No
+312,2025-04-02 11:00:00,1038,How can I get a transcript?,Academic,3.3,13,Yes
+313,2025-04-02 11:05:00,1016,How do I register for courses?,Administrative,3.5,22,No
+314,2025-04-02 11:10:00,1094,I cannot access my student portal.,Academic,4.6,12,No
+315,2025-04-02 11:15:00,1046,Website shows error 404.,Financial,4.6,18,No
+316,2025-04-02 11:20:00,1013,Website shows error 404.,Financial,3.1,20,No
+317,2025-04-02 11:25:00,1050,I need help with course selection.,Financial,3.8,12,No
+318,2025-04-02 11:30:00,1039,How can I get a transcript?,Administrative,4.6,31,Yes
+319,2025-04-02 11:35:00,1076,How do I register for courses?,Academic,3.2,17,No
+320,2025-04-02 11:40:00,1080,I cannot access my student portal.,Administrative,4.6,40,No
+321,2025-04-02 11:45:00,1066,What is the deadline for fee payment?,Academic,3.7,28,No
+322,2025-04-02 11:50:00,1051,My grade has not been updated.,Financial,4.7,38,Yes
+323,2025-04-02 11:55:00,1098,My grade has not been updated.,Administrative,3.4,17,Yes
+324,2025-04-02 12:00:00,1014,What is the deadline for fee payment?,Financial,3.7,13,No
+325,2025-04-02 12:05:00,1030,Is there any scholarship available?,Financial,3.2,40,Yes
+326,2025-04-02 12:10:00,1067,Is there any scholarship available?,Academic,4.3,20,No
+327,2025-04-02 12:15:00,1084,Website shows error 404.,Administrative,3.9,13,Yes
+328,2025-04-02 12:20:00,1011,Is there any scholarship available?,Technical,4.2,43,Yes
+329,2025-04-02 12:25:00,1026,Website shows error 404.,Academic,4.8,38,Yes
+330,2025-04-02 12:30:00,1000,How can I get a transcript?,Financial,4.0,10,No
+331,2025-04-02 12:35:00,1075,When is the semester starting?,Administrative,4.9,35,No
+332,2025-04-02 12:40:00,1014,What is the deadline for fee payment?,Administrative,3.6,27,No
+333,2025-04-02 12:45:00,1044,When is the semester starting?,Financial,3.0,34,Yes
+334,2025-04-02 12:50:00,1078,Is there any scholarship available?,Financial,3.0,41,No
+335,2025-04-02 12:55:00,1083,How do I register for courses?,Technical,4.4,34,Yes
+336,2025-04-02 13:00:00,1097,"I forgot my password, need assistance.",Administrative,3.1,18,No
+337,2025-04-02 13:05:00,1048,Website shows error 404.,Technical,4.5,16,No
+338,2025-04-02 13:10:00,1010,I cannot access my student portal.,Financial,4.4,28,No
+339,2025-04-02 13:15:00,1029,How can I get a transcript?,Financial,3.6,30,No
+340,2025-04-02 13:20:00,1072,Website shows error 404.,Financial,3.4,29,Yes
+341,2025-04-02 13:25:00,1094,How can I get a transcript?,Academic,4.5,44,No
+342,2025-04-02 13:30:00,1061,Is there any scholarship available?,Technical,5.0,19,Yes
+343,2025-04-02 13:35:00,1005,Website shows error 404.,Financial,4.4,30,Yes
+344,2025-04-02 13:40:00,1078,What is the deadline for fee payment?,Technical,4.5,37,Yes
+345,2025-04-02 13:45:00,1031,My grade has not been updated.,Financial,4.5,10,Yes
+346,2025-04-02 13:50:00,1021,How do I register for courses?,Financial,3.5,38,Yes
+347,2025-04-02 13:55:00,1097,When is the semester starting?,Technical,4.6,19,Yes
+348,2025-04-02 14:00:00,1028,How do I register for courses?,Technical,3.4,32,Yes
+349,2025-04-02 14:05:00,1016,When is the semester starting?,Financial,4.2,14,No
+350,2025-04-02 14:10:00,1016,What is the deadline for fee payment?,Financial,4.8,13,Yes
+351,2025-04-02 14:15:00,1035,What is the deadline for fee payment?,Administrative,3.9,21,Yes
+352,2025-04-02 14:20:00,1091,Is there any scholarship available?,Technical,3.6,12,Yes
+353,2025-04-02 14:25:00,1077,My grade has not been updated.,Financial,4.3,11,Yes
+354,2025-04-02 14:30:00,1034,Is there any scholarship available?,Technical,3.6,43,Yes
+355,2025-04-02 14:35:00,1079,I cannot access my student portal.,Financial,3.3,22,Yes
+356,2025-04-02 14:40:00,1027,How do I register for courses?,Financial,5.0,38,No
+357,2025-04-02 14:45:00,1032,What is the deadline for fee payment?,Technical,4.0,34,Yes
+358,2025-04-02 14:50:00,1007,"I forgot my password, need assistance.",Technical,4.6,27,Yes
+359,2025-04-02 14:55:00,1038,"I forgot my password, need assistance.",Technical,4.3,10,No
+360,2025-04-02 15:00:00,1050,Is there any scholarship available?,Administrative,4.6,30,No
+361,2025-04-02 15:05:00,1056,My grade has not been updated.,Administrative,3.8,23,Yes
+362,2025-04-02 15:10:00,1036,I need help with course selection.,Financial,3.1,23,No
+363,2025-04-02 15:15:00,1016,How can I get a transcript?,Academic,4.2,32,Yes
+364,2025-04-02 15:20:00,1099,"I forgot my password, need assistance.",Administrative,3.3,26,No
+365,2025-04-02 15:25:00,1074,How can I get a transcript?,Technical,4.1,29,Yes
+366,2025-04-02 15:30:00,1020,How do I register for courses?,Financial,4.5,39,Yes
+367,2025-04-02 15:35:00,1018,When is the semester starting?,Technical,3.1,17,No
+368,2025-04-02 15:40:00,1028,I cannot access my student portal.,Academic,3.7,31,No
+369,2025-04-02 15:45:00,1066,"I forgot my password, need assistance.",Administrative,3.3,30,Yes
+370,2025-04-02 15:50:00,1001,How can I get a transcript?,Financial,4.0,42,No
+371,2025-04-02 15:55:00,1023,I cannot access my student portal.,Academic,3.9,25,No
+372,2025-04-02 16:00:00,1036,When is the semester starting?,Technical,4.7,23,Yes
+373,2025-04-02 16:05:00,1047,"I forgot my password, need assistance.",Financial,3.8,21,Yes
+374,2025-04-02 16:10:00,1057,Website shows error 404.,Technical,4.2,28,Yes
+375,2025-04-02 16:15:00,1013,How can I get a transcript?,Financial,3.5,32,Yes
+376,2025-04-02 16:20:00,1085,When is the semester starting?,Financial,4.7,14,No
+377,2025-04-02 16:25:00,1085,How can I get a transcript?,Financial,3.5,36,No
+378,2025-04-02 16:30:00,1010,I need help with course selection.,Financial,3.8,22,Yes
+379,2025-04-02 16:35:00,1073,How can I get a transcript?,Financial,4.7,37,No
+380,2025-04-02 16:40:00,1018,When is the semester starting?,Financial,4.2,23,Yes
+381,2025-04-02 16:45:00,1099,Website shows error 404.,Technical,4.2,10,Yes
+382,2025-04-02 16:50:00,1035,How can I get a transcript?,Administrative,3.1,22,No
+383,2025-04-02 16:55:00,1075,"I forgot my password, need assistance.",Technical,4.6,43,No
+384,2025-04-02 17:00:00,1039,I cannot access my student portal.,Technical,3.9,22,No
+385,2025-04-02 17:05:00,1028,How do I register for courses?,Financial,4.7,18,Yes
+386,2025-04-02 17:10:00,1006,What is the deadline for fee payment?,Academic,3.6,38,Yes
+387,2025-04-02 17:15:00,1066,When is the semester starting?,Academic,4.9,13,Yes
+388,2025-04-02 17:20:00,1081,My grade has not been updated.,Financial,3.5,35,Yes
+389,2025-04-02 17:25:00,1019,How can I get a transcript?,Financial,4.1,39,Yes
+390,2025-04-02 17:30:00,1092,"I forgot my password, need assistance.",Financial,3.4,30,No
+391,2025-04-02 17:35:00,1098,How do I register for courses?,Financial,3.6,22,No
+392,2025-04-02 17:40:00,1061,How do I register for courses?,Academic,4.2,30,No
+393,2025-04-02 17:45:00,1019,Is there any scholarship available?,Administrative,4.1,29,No
+394,2025-04-02 17:50:00,1058,How do I register for courses?,Administrative,4.6,41,No
+395,2025-04-02 17:55:00,1036,"I forgot my password, need assistance.",Financial,4.1,23,Yes
+396,2025-04-02 18:00:00,1035,What is the deadline for fee payment?,Administrative,4.7,14,Yes
+397,2025-04-02 18:05:00,1060,How can I get a transcript?,Financial,3.4,30,No
+398,2025-04-02 18:10:00,1041,I need help with course selection.,Technical,4.8,44,No
+399,2025-04-02 18:15:00,1008,I need help with course selection.,Academic,4.2,42,Yes
+400,2025-04-02 18:20:00,1057,"I forgot my password, need assistance.",Administrative,4.2,26,No
+401,2025-04-02 18:25:00,1025,How can I get a transcript?,Administrative,3.0,22,Yes
+402,2025-04-02 18:30:00,1063,I need help with course selection.,Financial,3.5,32,Yes
+403,2025-04-02 18:35:00,1092,Website shows error 404.,Financial,4.5,30,Yes
+404,2025-04-02 18:40:00,1066,"I forgot my password, need assistance.",Technical,3.1,19,No
+405,2025-04-02 18:45:00,1090,How do I register for courses?,Academic,4.6,32,No
+406,2025-04-02 18:50:00,1098,How do I register for courses?,Technical,3.7,27,No
+407,2025-04-02 18:55:00,1015,I need help with course selection.,Financial,4.0,12,No
+408,2025-04-02 19:00:00,1018,I need help with course selection.,Academic,4.5,21,No
+409,2025-04-02 19:05:00,1059,Is there any scholarship available?,Technical,4.8,19,Yes
+410,2025-04-02 19:10:00,1087,My grade has not been updated.,Financial,3.8,17,No
+411,2025-04-02 19:15:00,1017,Website shows error 404.,Academic,5.0,30,No
+412,2025-04-02 19:20:00,1065,What is the deadline for fee payment?,Academic,3.0,29,No
+413,2025-04-02 19:25:00,1069,When is the semester starting?,Financial,4.8,16,No
+414,2025-04-02 19:30:00,1088,I cannot access my student portal.,Technical,4.0,19,Yes
+415,2025-04-02 19:35:00,1038,When is the semester starting?,Academic,3.4,22,Yes
+416,2025-04-02 19:40:00,1068,I cannot access my student portal.,Administrative,3.8,44,No
+417,2025-04-02 19:45:00,1054,Website shows error 404.,Academic,4.7,12,Yes
+418,2025-04-02 19:50:00,1081,When is the semester starting?,Technical,3.3,26,Yes
+419,2025-04-02 19:55:00,1005,When is the semester starting?,Administrative,3.5,21,No
+420,2025-04-02 20:00:00,1080,I cannot access my student portal.,Administrative,3.4,33,No
+421,2025-04-02 20:05:00,1018,My grade has not been updated.,Academic,4.8,29,Yes
+422,2025-04-02 20:10:00,1020,Website shows error 404.,Academic,4.7,36,Yes
+423,2025-04-02 20:15:00,1020,I cannot access my student portal.,Academic,5.0,30,No
+424,2025-04-02 20:20:00,1078,I need help with course selection.,Academic,4.1,30,Yes
+425,2025-04-02 20:25:00,1060,I cannot access my student portal.,Technical,4.9,26,No
+426,2025-04-02 20:30:00,1081,My grade has not been updated.,Financial,4.7,17,No
+427,2025-04-02 20:35:00,1081,How do I register for courses?,Administrative,4.0,19,Yes
+428,2025-04-02 20:40:00,1048,Is there any scholarship available?,Technical,4.3,11,Yes
+429,2025-04-02 20:45:00,1065,What is the deadline for fee payment?,Administrative,3.9,27,No
+430,2025-04-02 20:50:00,1070,Website shows error 404.,Technical,3.5,26,Yes
+431,2025-04-02 20:55:00,1045,Website shows error 404.,Technical,4.4,44,Yes
+432,2025-04-02 21:00:00,1030,I need help with course selection.,Administrative,4.9,24,No
+433,2025-04-02 21:05:00,1036,Is there any scholarship available?,Technical,4.9,38,Yes
+434,2025-04-02 21:10:00,1061,When is the semester starting?,Technical,4.1,29,No
+435,2025-04-02 21:15:00,1041,What is the deadline for fee payment?,Administrative,4.0,38,No
+436,2025-04-02 21:20:00,1050,"I forgot my password, need assistance.",Administrative,3.6,44,No
+437,2025-04-02 21:25:00,1005,Is there any scholarship available?,Administrative,3.5,24,No
+438,2025-04-02 21:30:00,1032,Is there any scholarship available?,Administrative,3.8,27,No
+439,2025-04-02 21:35:00,1020,My grade has not been updated.,Financial,3.6,13,Yes
+440,2025-04-02 21:40:00,1012,How can I get a transcript?,Administrative,4.8,13,Yes
+441,2025-04-02 21:45:00,1036,Is there any scholarship available?,Financial,3.2,16,Yes
+442,2025-04-02 21:50:00,1012,"I forgot my password, need assistance.",Technical,4.7,31,No
+443,2025-04-02 21:55:00,1007,"I forgot my password, need assistance.",Financial,3.7,28,Yes
+444,2025-04-02 22:00:00,1090,I need help with course selection.,Technical,4.6,21,No
+445,2025-04-02 22:05:00,1009,How do I register for courses?,Academic,3.1,40,No
+446,2025-04-02 22:10:00,1029,How do I register for courses?,Administrative,3.3,11,No
+447,2025-04-02 22:15:00,1098,How can I get a transcript?,Academic,3.5,31,No
+448,2025-04-02 22:20:00,1083,"I forgot my password, need assistance.",Technical,4.6,33,No
+449,2025-04-02 22:25:00,1016,I cannot access my student portal.,Academic,3.2,22,No
+450,2025-04-02 22:30:00,1080,I need help with course selection.,Academic,5.0,21,Yes
+451,2025-04-02 22:35:00,1024,I cannot access my student portal.,Administrative,3.1,19,No
+452,2025-04-02 22:40:00,1053,How do I register for courses?,Academic,3.4,43,No
+453,2025-04-02 22:45:00,1094,How can I get a transcript?,Academic,4.5,35,Yes
+454,2025-04-02 22:50:00,1041,"I forgot my password, need assistance.",Financial,3.2,23,Yes
+455,2025-04-02 22:55:00,1070,My grade has not been updated.,Administrative,4.9,26,Yes
+456,2025-04-02 23:00:00,1086,I need help with course selection.,Technical,4.3,11,Yes
+457,2025-04-02 23:05:00,1034,When is the semester starting?,Academic,4.5,35,Yes
+458,2025-04-02 23:10:00,1040,Is there any scholarship available?,Administrative,3.7,34,No
+459,2025-04-02 23:15:00,1041,When is the semester starting?,Technical,4.9,30,No
+460,2025-04-02 23:20:00,1073,How can I get a transcript?,Technical,3.1,30,No
+461,2025-04-02 23:25:00,1042,I cannot access my student portal.,Administrative,4.5,43,No
+462,2025-04-02 23:30:00,1040,How can I get a transcript?,Technical,4.1,33,Yes
+463,2025-04-02 23:35:00,1071,How do I register for courses?,Academic,4.1,41,Yes
+464,2025-04-02 23:40:00,1096,When is the semester starting?,Administrative,4.3,24,No
+465,2025-04-02 23:45:00,1016,Is there any scholarship available?,Administrative,3.8,36,Yes
+466,2025-04-02 23:50:00,1003,Website shows error 404.,Financial,4.6,33,No
+467,2025-04-02 23:55:00,1067,I need help with course selection.,Administrative,4.8,26,No
+468,2025-04-03 00:00:00,1008,I need help with course selection.,Financial,3.7,43,No
+469,2025-04-03 00:05:00,1043,I cannot access my student portal.,Administrative,4.4,35,No
+470,2025-04-03 00:10:00,1075,My grade has not been updated.,Technical,4.2,19,No
+471,2025-04-03 00:15:00,1025,When is the semester starting?,Financial,4.8,38,Yes
+472,2025-04-03 00:20:00,1053,Is there any scholarship available?,Academic,4.2,19,No
+473,2025-04-03 00:25:00,1098,How do I register for courses?,Academic,3.4,36,Yes
+474,2025-04-03 00:30:00,1068,Website shows error 404.,Academic,4.8,33,No
+475,2025-04-03 00:35:00,1002,My grade has not been updated.,Academic,4.1,15,Yes
+476,2025-04-03 00:40:00,1085,How can I get a transcript?,Administrative,3.2,18,Yes
+477,2025-04-03 00:45:00,1067,"I forgot my password, need assistance.",Technical,4.7,28,Yes
+478,2025-04-03 00:50:00,1037,How do I register for courses?,Administrative,3.1,39,No
+479,2025-04-03 00:55:00,1092,How do I register for courses?,Administrative,3.9,17,Yes
+480,2025-04-03 01:00:00,1012,Website shows error 404.,Academic,3.0,20,Yes
+481,2025-04-03 01:05:00,1075,"I forgot my password, need assistance.",Academic,4.8,16,No
+482,2025-04-03 01:10:00,1077,How can I get a transcript?,Administrative,4.8,32,Yes
+483,2025-04-03 01:15:00,1084,I need help with course selection.,Financial,4.1,20,No
+484,2025-04-03 01:20:00,1041,How can I get a transcript?,Financial,4.0,36,No
+485,2025-04-03 01:25:00,1036,"I forgot my password, need assistance.",Technical,4.0,40,Yes
+486,2025-04-03 01:30:00,1074,Website shows error 404.,Academic,4.0,15,Yes
+487,2025-04-03 01:35:00,1088,Website shows error 404.,Administrative,4.9,31,No
+488,2025-04-03 01:40:00,1006,I cannot access my student portal.,Academic,4.7,25,No
+489,2025-04-03 01:45:00,1096,Website shows error 404.,Technical,3.2,31,Yes
+490,2025-04-03 01:50:00,1018,Is there any scholarship available?,Financial,3.1,39,No
+491,2025-04-03 01:55:00,1048,I need help with course selection.,Financial,3.1,23,Yes
+492,2025-04-03 02:00:00,1087,When is the semester starting?,Technical,4.0,21,No
+493,2025-04-03 02:05:00,1016,How do I register for courses?,Academic,3.8,18,No
+494,2025-04-03 02:10:00,1019,My grade has not been updated.,Technical,3.3,14,No
+495,2025-04-03 02:15:00,1030,Is there any scholarship available?,Financial,4.5,27,Yes
+496,2025-04-03 02:20:00,1088,What is the deadline for fee payment?,Financial,4.5,22,No
+497,2025-04-03 02:25:00,1002,Is there any scholarship available?,Administrative,4.0,32,No
+498,2025-04-03 02:30:00,1019,How do I register for courses?,Academic,3.9,33,Yes
+499,2025-04-03 02:35:00,1082,What is the deadline for fee payment?,Academic,3.9,12,Yes
+500,2025-04-03 02:40:00,1083,Is there any scholarship available?,Financial,4.0,17,No
+501,2025-04-03 02:45:00,1059,I need help with course selection.,Academic,4.8,26,Yes
+502,2025-04-03 02:50:00,1042,I need help with course selection.,Technical,4.1,39,Yes
+503,2025-04-03 02:55:00,1064,Is there any scholarship available?,Academic,4.1,13,No
+504,2025-04-03 03:00:00,1076,How do I register for courses?,Financial,4.1,33,Yes
+505,2025-04-03 03:05:00,1067,My grade has not been updated.,Technical,3.6,33,Yes
+506,2025-04-03 03:10:00,1063,Website shows error 404.,Technical,3.5,29,Yes
+507,2025-04-03 03:15:00,1057,When is the semester starting?,Administrative,3.1,38,Yes
+508,2025-04-03 03:20:00,1020,I need help with course selection.,Financial,4.4,21,No
+509,2025-04-03 03:25:00,1088,How can I get a transcript?,Academic,4.0,11,No
+510,2025-04-03 03:30:00,1067,How do I register for courses?,Technical,3.9,24,No
+511,2025-04-03 03:35:00,1087,Website shows error 404.,Administrative,3.9,42,Yes
+512,2025-04-03 03:40:00,1081,How do I register for courses?,Financial,3.9,27,No
+513,2025-04-03 03:45:00,1060,I need help with course selection.,Technical,4.0,19,No
+514,2025-04-03 03:50:00,1017,My grade has not been updated.,Academic,3.8,43,Yes
+515,2025-04-03 03:55:00,1043,I cannot access my student portal.,Financial,4.8,24,Yes
+516,2025-04-03 04:00:00,1062,I need help with course selection.,Financial,3.8,13,Yes
+517,2025-04-03 04:05:00,1071,"I forgot my password, need assistance.",Administrative,4.4,28,No
+518,2025-04-03 04:10:00,1088,I cannot access my student portal.,Academic,3.9,41,No
+519,2025-04-03 04:15:00,1085,Is there any scholarship available?,Technical,3.0,11,Yes
+520,2025-04-03 04:20:00,1049,When is the semester starting?,Financial,3.6,35,Yes
+521,2025-04-03 04:25:00,1086,When is the semester starting?,Academic,4.8,39,No
+522,2025-04-03 04:30:00,1042,My grade has not been updated.,Academic,4.7,40,Yes
+523,2025-04-03 04:35:00,1034,How can I get a transcript?,Administrative,4.6,15,No
+524,2025-04-03 04:40:00,1016,What is the deadline for fee payment?,Technical,3.9,11,No
+525,2025-04-03 04:45:00,1091,I cannot access my student portal.,Technical,4.5,24,No
+526,2025-04-03 04:50:00,1023,My grade has not been updated.,Administrative,4.1,15,No
+527,2025-04-03 04:55:00,1016,Is there any scholarship available?,Financial,4.2,14,No
+528,2025-04-03 05:00:00,1064,When is the semester starting?,Administrative,4.4,29,No
+529,2025-04-03 05:05:00,1068,What is the deadline for fee payment?,Academic,4.4,35,Yes
+530,2025-04-03 05:10:00,1040,I cannot access my student portal.,Administrative,3.5,22,No
+531,2025-04-03 05:15:00,1077,I cannot access my student portal.,Administrative,4.4,13,Yes
+532,2025-04-03 05:20:00,1072,How can I get a transcript?,Financial,3.8,15,No
+533,2025-04-03 05:25:00,1006,Is there any scholarship available?,Financial,3.0,31,No
+534,2025-04-03 05:30:00,1082,How do I register for courses?,Academic,4.1,21,No
+535,2025-04-03 05:35:00,1003,How can I get a transcript?,Academic,3.1,16,No
+536,2025-04-03 05:40:00,1097,What is the deadline for fee payment?,Financial,4.3,19,Yes
+537,2025-04-03 05:45:00,1018,When is the semester starting?,Financial,3.5,33,No
+538,2025-04-03 05:50:00,1008,I need help with course selection.,Financial,4.5,24,No
+539,2025-04-03 05:55:00,1065,My grade has not been updated.,Administrative,4.1,17,No
+540,2025-04-03 06:00:00,1075,How do I register for courses?,Administrative,3.1,40,No
+541,2025-04-03 06:05:00,1077,I need help with course selection.,Technical,3.9,27,No
+542,2025-04-03 06:10:00,1091,How do I register for courses?,Technical,3.8,18,No
+543,2025-04-03 06:15:00,1072,When is the semester starting?,Administrative,3.3,21,Yes
+544,2025-04-03 06:20:00,1068,How do I register for courses?,Administrative,5.0,26,Yes
+545,2025-04-03 06:25:00,1069,"I forgot my password, need assistance.",Administrative,3.9,19,No
+546,2025-04-03 06:30:00,1099,My grade has not been updated.,Administrative,3.6,20,No
+547,2025-04-03 06:35:00,1096,I cannot access my student portal.,Technical,4.3,43,Yes
+548,2025-04-03 06:40:00,1002,How do I register for courses?,Academic,3.0,28,Yes
+549,2025-04-03 06:45:00,1069,When is the semester starting?,Academic,4.4,17,Yes
+550,2025-04-03 06:50:00,1053,When is the semester starting?,Administrative,3.7,39,No
+551,2025-04-03 06:55:00,1005,I cannot access my student portal.,Administrative,3.8,39,No
+552,2025-04-03 07:00:00,1047,What is the deadline for fee payment?,Administrative,4.0,23,No
+553,2025-04-03 07:05:00,1086,Website shows error 404.,Administrative,3.4,32,No
+554,2025-04-03 07:10:00,1031,Website shows error 404.,Academic,4.4,19,Yes
+555,2025-04-03 07:15:00,1057,What is the deadline for fee payment?,Technical,4.9,12,No
+556,2025-04-03 07:20:00,1042,How can I get a transcript?,Financial,4.3,22,Yes
+557,2025-04-03 07:25:00,1023,Website shows error 404.,Technical,3.2,40,No
+558,2025-04-03 07:30:00,1097,I need help with course selection.,Academic,4.9,34,Yes
+559,2025-04-03 07:35:00,1005,Is there any scholarship available?,Administrative,3.3,39,No
+560,2025-04-03 07:40:00,1033,I need help with course selection.,Financial,3.9,12,Yes
+561,2025-04-03 07:45:00,1022,What is the deadline for fee payment?,Technical,3.6,13,Yes
+562,2025-04-03 07:50:00,1092,I need help with course selection.,Academic,3.3,18,No
+563,2025-04-03 07:55:00,1018,Is there any scholarship available?,Academic,3.7,38,Yes
+564,2025-04-03 08:00:00,1001,I cannot access my student portal.,Administrative,4.5,17,No
+565,2025-04-03 08:05:00,1091,"I forgot my password, need assistance.",Technical,4.7,29,No
+566,2025-04-03 08:10:00,1000,When is the semester starting?,Academic,4.1,26,No
+567,2025-04-03 08:15:00,1036,What is the deadline for fee payment?,Financial,3.2,20,Yes
+568,2025-04-03 08:20:00,1040,What is the deadline for fee payment?,Technical,3.2,23,No
+569,2025-04-03 08:25:00,1000,Is there any scholarship available?,Financial,4.5,19,Yes
+570,2025-04-03 08:30:00,1073,How can I get a transcript?,Academic,3.8,44,Yes
+571,2025-04-03 08:35:00,1021,What is the deadline for fee payment?,Financial,4.8,39,Yes
+572,2025-04-03 08:40:00,1011,I need help with course selection.,Administrative,3.6,31,Yes
+573,2025-04-03 08:45:00,1052,How can I get a transcript?,Academic,3.0,41,No
+574,2025-04-03 08:50:00,1019,What is the deadline for fee payment?,Administrative,5.0,20,Yes
+575,2025-04-03 08:55:00,1059,What is the deadline for fee payment?,Technical,4.1,41,No
+576,2025-04-03 09:00:00,1003,Is there any scholarship available?,Academic,3.1,26,No
+577,2025-04-03 09:05:00,1092,How can I get a transcript?,Technical,3.2,14,No
+578,2025-04-03 09:10:00,1005,I need help with course selection.,Administrative,4.2,25,No
+579,2025-04-03 09:15:00,1056,My grade has not been updated.,Administrative,3.9,38,Yes
+580,2025-04-03 09:20:00,1056,I need help with course selection.,Academic,4.7,34,Yes
+581,2025-04-03 09:25:00,1000,When is the semester starting?,Financial,3.2,29,No
+582,2025-04-03 09:30:00,1050,I cannot access my student portal.,Administrative,3.1,37,No
+583,2025-04-03 09:35:00,1099,My grade has not been updated.,Financial,4.6,27,No
+584,2025-04-03 09:40:00,1074,What is the deadline for fee payment?,Academic,4.7,37,No
+585,2025-04-03 09:45:00,1062,Website shows error 404.,Financial,4.7,18,No
+586,2025-04-03 09:50:00,1048,I need help with course selection.,Administrative,3.9,15,No
+587,2025-04-03 09:55:00,1086,"I forgot my password, need assistance.",Administrative,4.0,11,No
+588,2025-04-03 10:00:00,1012,I cannot access my student portal.,Technical,3.9,27,Yes
+589,2025-04-03 10:05:00,1083,How do I register for courses?,Financial,3.9,37,Yes
+590,2025-04-03 10:10:00,1017,How can I get a transcript?,Technical,3.7,30,No
+591,2025-04-03 10:15:00,1068,I need help with course selection.,Financial,3.8,11,No
+592,2025-04-03 10:20:00,1096,When is the semester starting?,Administrative,4.5,23,No
+593,2025-04-03 10:25:00,1050,I cannot access my student portal.,Financial,4.9,13,No
+594,2025-04-03 10:30:00,1075,I need help with course selection.,Administrative,4.2,34,No
+595,2025-04-03 10:35:00,1004,How can I get a transcript?,Academic,4.3,32,No
+596,2025-04-03 10:40:00,1095,My grade has not been updated.,Financial,4.3,14,No
+597,2025-04-03 10:45:00,1017,I cannot access my student portal.,Administrative,3.8,28,No
+598,2025-04-03 10:50:00,1037,"I forgot my password, need assistance.",Technical,4.3,22,Yes
+599,2025-04-03 10:55:00,1096,My grade has not been updated.,Administrative,4.1,33,Yes
+600,2025-04-03 11:00:00,1056,How do I register for courses?,Financial,3.3,29,Yes
+601,2025-04-03 11:05:00,1030,When is the semester starting?,Academic,3.1,26,Yes
+602,2025-04-03 11:10:00,1092,My grade has not been updated.,Administrative,4.5,14,No
+603,2025-04-03 11:15:00,1040,My grade has not been updated.,Administrative,3.1,20,No
+604,2025-04-03 11:20:00,1039,How do I register for courses?,Administrative,3.9,20,Yes
+605,2025-04-03 11:25:00,1033,I cannot access my student portal.,Administrative,4.7,38,No
+606,2025-04-03 11:30:00,1027,Is there any scholarship available?,Administrative,5.0,28,No
+607,2025-04-03 11:35:00,1018,I cannot access my student portal.,Financial,4.2,34,Yes
+608,2025-04-03 11:40:00,1025,I need help with course selection.,Financial,4.5,33,Yes
+609,2025-04-03 11:45:00,1026,What is the deadline for fee payment?,Administrative,3.7,38,No
+610,2025-04-03 11:50:00,1065,I cannot access my student portal.,Administrative,3.0,37,Yes
+611,2025-04-03 11:55:00,1094,What is the deadline for fee payment?,Technical,4.6,23,Yes
+612,2025-04-03 12:00:00,1023,How do I register for courses?,Financial,4.9,24,No
+613,2025-04-03 12:05:00,1098,Website shows error 404.,Administrative,5.0,38,No
+614,2025-04-03 12:10:00,1031,When is the semester starting?,Academic,3.7,10,No
+615,2025-04-03 12:15:00,1053,I cannot access my student portal.,Academic,4.7,24,No
+616,2025-04-03 12:20:00,1024,What is the deadline for fee payment?,Financial,3.5,23,No
+617,2025-04-03 12:25:00,1047,Website shows error 404.,Technical,4.2,41,No
+618,2025-04-03 12:30:00,1036,What is the deadline for fee payment?,Financial,3.5,21,Yes
+619,2025-04-03 12:35:00,1048,My grade has not been updated.,Academic,3.3,28,Yes
+620,2025-04-03 12:40:00,1080,What is the deadline for fee payment?,Academic,4.6,23,Yes
+621,2025-04-03 12:45:00,1051,Website shows error 404.,Financial,3.2,30,Yes
+622,2025-04-03 12:50:00,1018,I need help with course selection.,Academic,3.4,37,No
+623,2025-04-03 12:55:00,1095,My grade has not been updated.,Administrative,5.0,31,Yes
+624,2025-04-03 13:00:00,1077,What is the deadline for fee payment?,Financial,3.9,12,Yes
+625,2025-04-03 13:05:00,1034,Is there any scholarship available?,Technical,4.1,21,Yes
+626,2025-04-03 13:10:00,1096,I need help with course selection.,Financial,3.4,31,Yes
+627,2025-04-03 13:15:00,1063,My grade has not been updated.,Technical,3.6,39,Yes
+628,2025-04-03 13:20:00,1079,How can I get a transcript?,Academic,4.1,27,No
+629,2025-04-03 13:25:00,1057,Is there any scholarship available?,Financial,3.3,34,Yes
+630,2025-04-03 13:30:00,1079,"I forgot my password, need assistance.",Financial,3.8,30,Yes
+631,2025-04-03 13:35:00,1074,Website shows error 404.,Academic,4.5,12,No
+632,2025-04-03 13:40:00,1035,How can I get a transcript?,Administrative,3.4,41,Yes
+633,2025-04-03 13:45:00,1036,"I forgot my password, need assistance.",Financial,3.2,38,Yes
+634,2025-04-03 13:50:00,1026,Website shows error 404.,Administrative,4.7,14,No
+635,2025-04-03 13:55:00,1023,Is there any scholarship available?,Academic,3.6,12,No
+636,2025-04-03 14:00:00,1058,When is the semester starting?,Administrative,4.9,15,Yes
+637,2025-04-03 14:05:00,1066,Is there any scholarship available?,Administrative,4.6,29,Yes
+638,2025-04-03 14:10:00,1091,How can I get a transcript?,Technical,3.6,42,No
+639,2025-04-03 14:15:00,1084,My grade has not been updated.,Financial,4.6,44,No
+640,2025-04-03 14:20:00,1034,When is the semester starting?,Administrative,3.8,24,No
+641,2025-04-03 14:25:00,1059,How do I register for courses?,Financial,4.3,12,No
+642,2025-04-03 14:30:00,1021,My grade has not been updated.,Technical,3.4,17,No
+643,2025-04-03 14:35:00,1049,I need help with course selection.,Academic,3.7,27,Yes
+644,2025-04-03 14:40:00,1084,When is the semester starting?,Financial,4.3,19,Yes
+645,2025-04-03 14:45:00,1013,My grade has not been updated.,Administrative,3.5,41,Yes
+646,2025-04-03 14:50:00,1010,I need help with course selection.,Administrative,3.8,42,Yes
+647,2025-04-03 14:55:00,1038,Is there any scholarship available?,Academic,4.5,41,Yes
+648,2025-04-03 15:00:00,1068,I need help with course selection.,Academic,4.3,33,No
+649,2025-04-03 15:05:00,1028,I need help with course selection.,Technical,3.8,38,Yes
+650,2025-04-03 15:10:00,1081,How do I register for courses?,Financial,4.8,11,Yes
+651,2025-04-03 15:15:00,1076,How do I register for courses?,Financial,4.2,14,No
+652,2025-04-03 15:20:00,1034,I need help with course selection.,Administrative,4.1,23,No
+653,2025-04-03 15:25:00,1098,What is the deadline for fee payment?,Administrative,4.6,31,Yes
+654,2025-04-03 15:30:00,1037,How can I get a transcript?,Technical,3.9,14,No
+655,2025-04-03 15:35:00,1092,My grade has not been updated.,Technical,4.9,44,Yes
+656,2025-04-03 15:40:00,1087,How can I get a transcript?,Administrative,4.6,24,No
+657,2025-04-03 15:45:00,1040,I cannot access my student portal.,Financial,4.7,22,Yes
+658,2025-04-03 15:50:00,1025,I cannot access my student portal.,Academic,4.4,34,Yes
+659,2025-04-03 15:55:00,1084,Is there any scholarship available?,Financial,3.0,36,Yes
+660,2025-04-03 16:00:00,1018,I need help with course selection.,Administrative,4.5,16,No
+661,2025-04-03 16:05:00,1002,What is the deadline for fee payment?,Academic,4.2,39,Yes
+662,2025-04-03 16:10:00,1099,What is the deadline for fee payment?,Academic,3.2,18,No
+663,2025-04-03 16:15:00,1025,My grade has not been updated.,Administrative,3.3,17,Yes
+664,2025-04-03 16:20:00,1075,When is the semester starting?,Academic,3.6,29,No
+665,2025-04-03 16:25:00,1057,"I forgot my password, need assistance.",Technical,4.5,37,Yes
+666,2025-04-03 16:30:00,1061,How can I get a transcript?,Financial,3.2,26,No
+667,2025-04-03 16:35:00,1054,Is there any scholarship available?,Financial,4.5,21,Yes
+668,2025-04-03 16:40:00,1020,I cannot access my student portal.,Technical,4.6,24,No
+669,2025-04-03 16:45:00,1040,How can I get a transcript?,Academic,4.8,38,No
+670,2025-04-03 16:50:00,1044,How do I register for courses?,Academic,5.0,17,Yes
+671,2025-04-03 16:55:00,1011,When is the semester starting?,Academic,5.0,22,Yes
+672,2025-04-03 17:00:00,1031,I need help with course selection.,Administrative,4.6,29,Yes
+673,2025-04-03 17:05:00,1034,"I forgot my password, need assistance.",Administrative,3.4,28,Yes
+674,2025-04-03 17:10:00,1058,How do I register for courses?,Administrative,3.6,24,Yes
+675,2025-04-03 17:15:00,1020,I cannot access my student portal.,Administrative,4.8,27,Yes
+676,2025-04-03 17:20:00,1005,How can I get a transcript?,Academic,3.6,35,No
+677,2025-04-03 17:25:00,1099,How can I get a transcript?,Technical,4.2,28,No
+678,2025-04-03 17:30:00,1050,I cannot access my student portal.,Academic,4.2,17,No
+679,2025-04-03 17:35:00,1031,Is there any scholarship available?,Academic,4.4,38,No
+680,2025-04-03 17:40:00,1008,I cannot access my student portal.,Technical,3.2,43,Yes
+681,2025-04-03 17:45:00,1091,I need help with course selection.,Administrative,4.4,26,Yes
+682,2025-04-03 17:50:00,1000,I need help with course selection.,Administrative,3.9,26,Yes
+683,2025-04-03 17:55:00,1028,What is the deadline for fee payment?,Technical,3.3,12,Yes
+684,2025-04-03 18:00:00,1037,How do I register for courses?,Technical,4.6,27,Yes
+685,2025-04-03 18:05:00,1007,What is the deadline for fee payment?,Technical,3.6,14,No
+686,2025-04-03 18:10:00,1076,What is the deadline for fee payment?,Technical,3.7,36,No
+687,2025-04-03 18:15:00,1094,Is there any scholarship available?,Academic,3.9,13,Yes
+688,2025-04-03 18:20:00,1025,I cannot access my student portal.,Financial,4.2,24,No
+689,2025-04-03 18:25:00,1019,What is the deadline for fee payment?,Financial,4.9,12,Yes
+690,2025-04-03 18:30:00,1084,"I forgot my password, need assistance.",Administrative,3.1,23,Yes
+691,2025-04-03 18:35:00,1055,"I forgot my password, need assistance.",Financial,3.6,21,Yes
+692,2025-04-03 18:40:00,1047,My grade has not been updated.,Administrative,3.4,28,No
+693,2025-04-03 18:45:00,1025,Website shows error 404.,Administrative,4.0,14,Yes
+694,2025-04-03 18:50:00,1013,Is there any scholarship available?,Financial,4.5,40,Yes
+695,2025-04-03 18:55:00,1037,My grade has not been updated.,Administrative,3.1,10,Yes
+696,2025-04-03 19:00:00,1021,How can I get a transcript?,Technical,3.2,21,Yes
+697,2025-04-03 19:05:00,1090,What is the deadline for fee payment?,Financial,3.7,42,Yes
+698,2025-04-03 19:10:00,1075,"I forgot my password, need assistance.",Financial,4.0,40,Yes
+699,2025-04-03 19:15:00,1062,What is the deadline for fee payment?,Technical,3.4,30,Yes
+700,2025-04-03 19:20:00,1090,What is the deadline for fee payment?,Administrative,4.0,39,No
+701,2025-04-03 19:25:00,1065,Is there any scholarship available?,Technical,3.1,21,No
+702,2025-04-03 19:30:00,1072,Is there any scholarship available?,Administrative,4.1,23,Yes
+703,2025-04-03 19:35:00,1012,I cannot access my student portal.,Academic,4.6,32,No
+704,2025-04-03 19:40:00,1097,When is the semester starting?,Academic,4.1,29,Yes
+705,2025-04-03 19:45:00,1013,Website shows error 404.,Technical,4.7,11,Yes
+706,2025-04-03 19:50:00,1013,I need help with course selection.,Academic,4.9,20,Yes
+707,2025-04-03 19:55:00,1050,How can I get a transcript?,Academic,3.8,43,Yes
+708,2025-04-03 20:00:00,1078,"I forgot my password, need assistance.",Academic,3.3,11,Yes
+709,2025-04-03 20:05:00,1068,I need help with course selection.,Academic,3.6,34,No
+710,2025-04-03 20:10:00,1012,Website shows error 404.,Technical,3.9,10,Yes
+711,2025-04-03 20:15:00,1022,I need help with course selection.,Academic,4.0,23,No
+712,2025-04-03 20:20:00,1050,My grade has not been updated.,Technical,3.5,39,No
+713,2025-04-03 20:25:00,1012,How can I get a transcript?,Administrative,3.9,26,Yes
+714,2025-04-03 20:30:00,1073,How can I get a transcript?,Technical,3.4,34,Yes
+715,2025-04-03 20:35:00,1063,I cannot access my student portal.,Administrative,3.1,25,Yes
+716,2025-04-03 20:40:00,1017,What is the deadline for fee payment?,Technical,4.2,22,No
+717,2025-04-03 20:45:00,1041,"I forgot my password, need assistance.",Administrative,4.3,31,Yes
+718,2025-04-03 20:50:00,1001,Is there any scholarship available?,Administrative,3.2,19,No
+719,2025-04-03 20:55:00,1026,"I forgot my password, need assistance.",Academic,3.3,27,Yes
+720,2025-04-03 21:00:00,1041,What is the deadline for fee payment?,Financial,4.6,23,No
+721,2025-04-03 21:05:00,1004,When is the semester starting?,Technical,4.0,35,No
+722,2025-04-03 21:10:00,1081,"I forgot my password, need assistance.",Financial,3.2,32,No
+723,2025-04-03 21:15:00,1096,What is the deadline for fee payment?,Financial,4.9,10,No
+724,2025-04-03 21:20:00,1098,Website shows error 404.,Financial,3.8,13,Yes
+725,2025-04-03 21:25:00,1006,Is there any scholarship available?,Technical,3.8,24,No
+726,2025-04-03 21:30:00,1056,How do I register for courses?,Financial,3.2,13,Yes
+727,2025-04-03 21:35:00,1005,I cannot access my student portal.,Financial,4.4,31,No
+728,2025-04-03 21:40:00,1002,Website shows error 404.,Technical,4.7,31,Yes
+729,2025-04-03 21:45:00,1000,"I forgot my password, need assistance.",Academic,4.9,13,No
+730,2025-04-03 21:50:00,1087,Website shows error 404.,Financial,4.3,42,No
+731,2025-04-03 21:55:00,1037,I need help with course selection.,Academic,4.6,23,No
+732,2025-04-03 22:00:00,1061,Is there any scholarship available?,Technical,4.1,32,No
+733,2025-04-03 22:05:00,1043,Is there any scholarship available?,Administrative,4.0,44,Yes
+734,2025-04-03 22:10:00,1045,When is the semester starting?,Administrative,4.2,31,Yes
+735,2025-04-03 22:15:00,1037,How do I register for courses?,Financial,4.8,22,Yes
+736,2025-04-03 22:20:00,1064,I cannot access my student portal.,Administrative,3.4,29,Yes
+737,2025-04-03 22:25:00,1030,My grade has not been updated.,Academic,4.6,22,Yes
+738,2025-04-03 22:30:00,1097,Website shows error 404.,Technical,4.3,11,Yes
+739,2025-04-03 22:35:00,1009,I cannot access my student portal.,Financial,4.6,26,No
+740,2025-04-03 22:40:00,1025,I cannot access my student portal.,Administrative,3.5,31,No
+741,2025-04-03 22:45:00,1090,How can I get a transcript?,Academic,4.3,44,No
+742,2025-04-03 22:50:00,1055,I cannot access my student portal.,Administrative,3.5,13,Yes
+743,2025-04-03 22:55:00,1073,I cannot access my student portal.,Administrative,4.8,34,No
+744,2025-04-03 23:00:00,1028,How do I register for courses?,Administrative,3.3,18,No
+745,2025-04-03 23:05:00,1093,How can I get a transcript?,Administrative,3.7,21,No
+746,2025-04-03 23:10:00,1011,What is the deadline for fee payment?,Technical,3.9,16,Yes
+747,2025-04-03 23:15:00,1034,What is the deadline for fee payment?,Technical,3.8,26,Yes
+748,2025-04-03 23:20:00,1045,"I forgot my password, need assistance.",Technical,4.0,14,No
+749,2025-04-03 23:25:00,1061,How do I register for courses?,Administrative,3.1,21,Yes
+750,2025-04-03 23:30:00,1093,"I forgot my password, need assistance.",Administrative,3.9,44,Yes
+751,2025-04-03 23:35:00,1020,"I forgot my password, need assistance.",Technical,3.9,36,Yes
+752,2025-04-03 23:40:00,1022,How can I get a transcript?,Administrative,4.2,25,Yes
+753,2025-04-03 23:45:00,1053,I cannot access my student portal.,Technical,4.3,32,Yes
+754,2025-04-03 23:50:00,1004,When is the semester starting?,Administrative,4.9,13,No
+755,2025-04-03 23:55:00,1015,I cannot access my student portal.,Administrative,3.4,19,Yes
+756,2025-04-04 00:00:00,1084,I need help with course selection.,Administrative,4.7,38,Yes
+757,2025-04-04 00:05:00,1024,How do I register for courses?,Administrative,3.6,36,No
+758,2025-04-04 00:10:00,1088,When is the semester starting?,Administrative,4.6,25,Yes
+759,2025-04-04 00:15:00,1006,Is there any scholarship available?,Financial,4.9,20,No
+760,2025-04-04 00:20:00,1068,Website shows error 404.,Academic,3.2,24,Yes
+761,2025-04-04 00:25:00,1037,"I forgot my password, need assistance.",Technical,4.5,28,No
+762,2025-04-04 00:30:00,1084,How can I get a transcript?,Administrative,4.1,39,No
+763,2025-04-04 00:35:00,1070,When is the semester starting?,Administrative,4.9,20,Yes
+764,2025-04-04 00:40:00,1055,Is there any scholarship available?,Technical,3.5,25,No
+765,2025-04-04 00:45:00,1082,"I forgot my password, need assistance.",Financial,3.5,16,No
+766,2025-04-04 00:50:00,1083,"I forgot my password, need assistance.",Academic,3.1,25,No
+767,2025-04-04 00:55:00,1052,I cannot access my student portal.,Technical,4.7,42,No
+768,2025-04-04 01:00:00,1056,My grade has not been updated.,Financial,4.2,13,Yes
+769,2025-04-04 01:05:00,1069,How do I register for courses?,Administrative,4.4,14,No
+770,2025-04-04 01:10:00,1023,Is there any scholarship available?,Administrative,3.4,14,No
+771,2025-04-04 01:15:00,1058,Is there any scholarship available?,Financial,3.0,40,Yes
+772,2025-04-04 01:20:00,1040,Website shows error 404.,Administrative,3.0,40,Yes
+773,2025-04-04 01:25:00,1027,"I forgot my password, need assistance.",Technical,3.1,20,No
+774,2025-04-04 01:30:00,1084,How do I register for courses?,Technical,4.8,34,Yes
+775,2025-04-04 01:35:00,1054,I need help with course selection.,Administrative,3.3,21,No
+776,2025-04-04 01:40:00,1045,How can I get a transcript?,Administrative,4.6,32,No
+777,2025-04-04 01:45:00,1011,I need help with course selection.,Administrative,4.1,34,Yes
+778,2025-04-04 01:50:00,1039,What is the deadline for fee payment?,Technical,3.5,40,No
+779,2025-04-04 01:55:00,1030,I need help with course selection.,Administrative,3.4,38,No
+780,2025-04-04 02:00:00,1069,When is the semester starting?,Administrative,3.9,18,No
+781,2025-04-04 02:05:00,1065,I need help with course selection.,Administrative,4.2,18,Yes
+782,2025-04-04 02:10:00,1052,I need help with course selection.,Administrative,4.8,31,No
+783,2025-04-04 02:15:00,1076,When is the semester starting?,Technical,3.8,32,Yes
+784,2025-04-04 02:20:00,1050,How can I get a transcript?,Academic,4.5,13,Yes
+785,2025-04-04 02:25:00,1005,How do I register for courses?,Financial,3.8,39,No
+786,2025-04-04 02:30:00,1020,I cannot access my student portal.,Financial,4.6,19,No
+787,2025-04-04 02:35:00,1031,"I forgot my password, need assistance.",Academic,4.8,39,Yes
+788,2025-04-04 02:40:00,1042,What is the deadline for fee payment?,Technical,5.0,15,No
+789,2025-04-04 02:45:00,1009,What is the deadline for fee payment?,Academic,3.4,24,Yes
+790,2025-04-04 02:50:00,1024,How can I get a transcript?,Academic,5.0,40,Yes
+791,2025-04-04 02:55:00,1066,What is the deadline for fee payment?,Financial,3.9,39,Yes
+792,2025-04-04 03:00:00,1052,I need help with course selection.,Administrative,3.3,36,Yes
+793,2025-04-04 03:05:00,1030,How do I register for courses?,Financial,3.9,13,Yes
+794,2025-04-04 03:10:00,1001,I need help with course selection.,Administrative,4.6,18,No
+795,2025-04-04 03:15:00,1021,Website shows error 404.,Financial,4.7,20,No
+796,2025-04-04 03:20:00,1063,"I forgot my password, need assistance.",Technical,4.3,27,Yes
+797,2025-04-04 03:25:00,1061,What is the deadline for fee payment?,Administrative,4.8,21,Yes
+798,2025-04-04 03:30:00,1084,How do I register for courses?,Academic,4.0,26,Yes
+799,2025-04-04 03:35:00,1006,I cannot access my student portal.,Technical,3.0,28,Yes
+800,2025-04-04 03:40:00,1048,How do I register for courses?,Academic,4.6,30,No
+801,2025-04-04 03:45:00,1061,Is there any scholarship available?,Administrative,4.1,41,Yes
+802,2025-04-04 03:50:00,1049,What is the deadline for fee payment?,Administrative,3.3,22,No
+803,2025-04-04 03:55:00,1095,My grade has not been updated.,Technical,3.9,19,Yes
+804,2025-04-04 04:00:00,1055,"I forgot my password, need assistance.",Administrative,4.8,24,Yes
+805,2025-04-04 04:05:00,1094,I need help with course selection.,Financial,4.3,35,Yes
+806,2025-04-04 04:10:00,1079,"I forgot my password, need assistance.",Financial,4.8,17,Yes
+807,2025-04-04 04:15:00,1055,"I forgot my password, need assistance.",Administrative,3.2,22,No
+808,2025-04-04 04:20:00,1020,Is there any scholarship available?,Academic,3.1,17,No
+809,2025-04-04 04:25:00,1059,Website shows error 404.,Academic,3.5,25,Yes
+810,2025-04-04 04:30:00,1051,How do I register for courses?,Financial,3.6,33,Yes
+811,2025-04-04 04:35:00,1001,I cannot access my student portal.,Academic,4.3,18,Yes
+812,2025-04-04 04:40:00,1022,I need help with course selection.,Technical,4.5,26,No
+813,2025-04-04 04:45:00,1002,When is the semester starting?,Financial,3.9,24,Yes
+814,2025-04-04 04:50:00,1079,How can I get a transcript?,Technical,3.4,43,Yes
+815,2025-04-04 04:55:00,1072,"I forgot my password, need assistance.",Technical,4.9,41,Yes
+816,2025-04-04 05:00:00,1045,My grade has not been updated.,Financial,4.2,21,Yes
+817,2025-04-04 05:05:00,1020,When is the semester starting?,Financial,4.3,25,No
+818,2025-04-04 05:10:00,1000,"I forgot my password, need assistance.",Technical,3.1,29,No
+819,2025-04-04 05:15:00,1083,How do I register for courses?,Academic,3.5,27,No
+820,2025-04-04 05:20:00,1003,I cannot access my student portal.,Administrative,4.8,15,No
+821,2025-04-04 05:25:00,1046,When is the semester starting?,Technical,3.9,44,Yes
+822,2025-04-04 05:30:00,1073,Is there any scholarship available?,Financial,4.9,32,Yes
+823,2025-04-04 05:35:00,1063,My grade has not been updated.,Financial,4.5,42,Yes
+824,2025-04-04 05:40:00,1034,What is the deadline for fee payment?,Academic,4.7,15,No
+825,2025-04-04 05:45:00,1079,I cannot access my student portal.,Administrative,3.2,37,No
+826,2025-04-04 05:50:00,1008,How do I register for courses?,Academic,4.8,10,Yes
+827,2025-04-04 05:55:00,1088,When is the semester starting?,Technical,3.7,30,No
+828,2025-04-04 06:00:00,1019,My grade has not been updated.,Academic,3.9,30,Yes
+829,2025-04-04 06:05:00,1014,I cannot access my student portal.,Administrative,4.6,35,Yes
+830,2025-04-04 06:10:00,1021,"I forgot my password, need assistance.",Academic,4.3,11,No
+831,2025-04-04 06:15:00,1082,My grade has not been updated.,Administrative,3.7,17,Yes
+832,2025-04-04 06:20:00,1013,"I forgot my password, need assistance.",Administrative,4.5,39,No
+833,2025-04-04 06:25:00,1050,"I forgot my password, need assistance.",Academic,4.7,35,Yes
+834,2025-04-04 06:30:00,1068,I need help with course selection.,Academic,3.8,36,No
+835,2025-04-04 06:35:00,1058,When is the semester starting?,Financial,4.8,41,No
+836,2025-04-04 06:40:00,1055,I cannot access my student portal.,Financial,3.4,17,No
+837,2025-04-04 06:45:00,1069,Is there any scholarship available?,Administrative,4.3,25,No
+838,2025-04-04 06:50:00,1087,My grade has not been updated.,Administrative,3.4,43,Yes
+839,2025-04-04 06:55:00,1026,How do I register for courses?,Academic,4.7,27,No
+840,2025-04-04 07:00:00,1060,Website shows error 404.,Technical,3.5,19,Yes
+841,2025-04-04 07:05:00,1060,Website shows error 404.,Financial,3.1,39,Yes
+842,2025-04-04 07:10:00,1093,Is there any scholarship available?,Technical,4.1,10,No
+843,2025-04-04 07:15:00,1032,How do I register for courses?,Technical,3.0,21,Yes
+844,2025-04-04 07:20:00,1009,"I forgot my password, need assistance.",Administrative,3.5,14,No
+845,2025-04-04 07:25:00,1019,How can I get a transcript?,Financial,4.2,30,Yes
+846,2025-04-04 07:30:00,1006,I cannot access my student portal.,Administrative,3.5,42,Yes
+847,2025-04-04 07:35:00,1024,I cannot access my student portal.,Administrative,3.9,19,No
+848,2025-04-04 07:40:00,1000,What is the deadline for fee payment?,Financial,3.4,33,No
+849,2025-04-04 07:45:00,1020,I cannot access my student portal.,Administrative,3.3,21,No
+850,2025-04-04 07:50:00,1002,Website shows error 404.,Academic,4.9,37,No
+851,2025-04-04 07:55:00,1047,I need help with course selection.,Financial,3.4,14,Yes
+852,2025-04-04 08:00:00,1097,"I forgot my password, need assistance.",Technical,4.5,23,No
+853,2025-04-04 08:05:00,1063,"I forgot my password, need assistance.",Technical,4.8,33,No
+854,2025-04-04 08:10:00,1064,What is the deadline for fee payment?,Academic,3.3,35,Yes
+855,2025-04-04 08:15:00,1087,When is the semester starting?,Technical,3.2,22,Yes
+856,2025-04-04 08:20:00,1004,"I forgot my password, need assistance.",Financial,3.8,17,No
+857,2025-04-04 08:25:00,1098,I cannot access my student portal.,Academic,3.7,27,Yes
+858,2025-04-04 08:30:00,1064,My grade has not been updated.,Administrative,3.3,15,Yes
+859,2025-04-04 08:35:00,1051,How do I register for courses?,Technical,3.3,42,Yes
+860,2025-04-04 08:40:00,1095,I need help with course selection.,Technical,4.6,21,No
+861,2025-04-04 08:45:00,1050,I need help with course selection.,Academic,4.9,42,Yes
+862,2025-04-04 08:50:00,1013,Website shows error 404.,Administrative,4.2,13,Yes
+863,2025-04-04 08:55:00,1077,Website shows error 404.,Administrative,3.7,34,No
+864,2025-04-04 09:00:00,1094,"I forgot my password, need assistance.",Administrative,4.1,24,No
+865,2025-04-04 09:05:00,1043,I need help with course selection.,Academic,3.7,18,Yes
+866,2025-04-04 09:10:00,1071,How do I register for courses?,Academic,3.7,40,No
+867,2025-04-04 09:15:00,1097,I need help with course selection.,Academic,4.2,15,No
+868,2025-04-04 09:20:00,1037,When is the semester starting?,Technical,4.4,41,Yes
+869,2025-04-04 09:25:00,1012,Is there any scholarship available?,Financial,3.9,30,Yes
+870,2025-04-04 09:30:00,1050,"I forgot my password, need assistance.",Academic,4.8,25,Yes
+871,2025-04-04 09:35:00,1045,Website shows error 404.,Administrative,4.5,40,No
+872,2025-04-04 09:40:00,1094,Website shows error 404.,Financial,4.9,32,No
+873,2025-04-04 09:45:00,1065,Is there any scholarship available?,Technical,4.5,42,No
+874,2025-04-04 09:50:00,1052,How do I register for courses?,Administrative,3.4,10,Yes
+875,2025-04-04 09:55:00,1061,My grade has not been updated.,Technical,3.2,27,Yes
+876,2025-04-04 10:00:00,1053,Is there any scholarship available?,Administrative,4.7,31,Yes
+877,2025-04-04 10:05:00,1068,How do I register for courses?,Administrative,3.7,26,Yes
+878,2025-04-04 10:10:00,1039,I cannot access my student portal.,Academic,4.1,25,Yes
+879,2025-04-04 10:15:00,1089,Is there any scholarship available?,Administrative,3.6,10,No
+880,2025-04-04 10:20:00,1060,"I forgot my password, need assistance.",Academic,4.9,22,Yes
+881,2025-04-04 10:25:00,1069,When is the semester starting?,Technical,3.2,15,No
+882,2025-04-04 10:30:00,1022,When is the semester starting?,Technical,4.3,21,No
+883,2025-04-04 10:35:00,1094,How can I get a transcript?,Financial,3.1,29,No
+884,2025-04-04 10:40:00,1076,How do I register for courses?,Financial,4.7,12,Yes
+885,2025-04-04 10:45:00,1029,Is there any scholarship available?,Financial,3.0,25,Yes
+886,2025-04-04 10:50:00,1046,I cannot access my student portal.,Financial,3.2,37,Yes
+887,2025-04-04 10:55:00,1093,"I forgot my password, need assistance.",Academic,4.7,34,No
+888,2025-04-04 11:00:00,1068,How can I get a transcript?,Technical,4.0,17,No
+889,2025-04-04 11:05:00,1021,Website shows error 404.,Academic,4.1,30,No
+890,2025-04-04 11:10:00,1087,When is the semester starting?,Administrative,4.5,32,Yes
+891,2025-04-04 11:15:00,1058,I cannot access my student portal.,Administrative,3.3,27,Yes
+892,2025-04-04 11:20:00,1081,My grade has not been updated.,Technical,3.3,16,No
+893,2025-04-04 11:25:00,1019,Is there any scholarship available?,Financial,4.0,18,Yes
+894,2025-04-04 11:30:00,1039,When is the semester starting?,Financial,4.2,34,No
+895,2025-04-04 11:35:00,1072,How can I get a transcript?,Technical,4.6,43,No
+896,2025-04-04 11:40:00,1088,How do I register for courses?,Financial,4.4,18,Yes
+897,2025-04-04 11:45:00,1013,Is there any scholarship available?,Technical,4.7,31,No
+898,2025-04-04 11:50:00,1034,I cannot access my student portal.,Academic,3.0,27,Yes
+899,2025-04-04 11:55:00,1047,How can I get a transcript?,Financial,3.7,11,Yes
+900,2025-04-04 12:00:00,1073,I need help with course selection.,Technical,4.6,43,No
+901,2025-04-04 12:05:00,1088,I cannot access my student portal.,Administrative,4.7,23,Yes
+902,2025-04-04 12:10:00,1045,How can I get a transcript?,Financial,3.9,34,No
+903,2025-04-04 12:15:00,1077,When is the semester starting?,Financial,4.2,19,No
+904,2025-04-04 12:20:00,1092,I need help with course selection.,Academic,4.4,10,Yes
+905,2025-04-04 12:25:00,1066,How can I get a transcript?,Academic,4.3,11,No
+906,2025-04-04 12:30:00,1034,When is the semester starting?,Technical,3.0,19,No
+907,2025-04-04 12:35:00,1088,What is the deadline for fee payment?,Financial,4.0,25,No
+908,2025-04-04 12:40:00,1099,My grade has not been updated.,Administrative,4.1,17,No
+909,2025-04-04 12:45:00,1061,When is the semester starting?,Administrative,4.0,43,No
+910,2025-04-04 12:50:00,1063,How can I get a transcript?,Technical,3.1,32,Yes
+911,2025-04-04 12:55:00,1037,Website shows error 404.,Financial,4.5,41,Yes
+912,2025-04-04 13:00:00,1043,Website shows error 404.,Academic,3.8,18,No
+913,2025-04-04 13:05:00,1092,How do I register for courses?,Financial,4.2,38,Yes
+914,2025-04-04 13:10:00,1030,Website shows error 404.,Financial,5.0,16,No
+915,2025-04-04 13:15:00,1047,Is there any scholarship available?,Academic,3.2,13,Yes
+916,2025-04-04 13:20:00,1060,How do I register for courses?,Administrative,3.9,15,No
+917,2025-04-04 13:25:00,1000,Website shows error 404.,Financial,3.8,25,No
+918,2025-04-04 13:30:00,1056,Website shows error 404.,Academic,3.8,44,No
+919,2025-04-04 13:35:00,1045,Is there any scholarship available?,Academic,4.3,30,Yes
+920,2025-04-04 13:40:00,1093,When is the semester starting?,Financial,4.0,16,Yes
+921,2025-04-04 13:45:00,1094,My grade has not been updated.,Financial,4.6,23,No
+922,2025-04-04 13:50:00,1052,Is there any scholarship available?,Technical,3.4,24,Yes
+923,2025-04-04 13:55:00,1084,When is the semester starting?,Technical,4.1,15,Yes
+924,2025-04-04 14:00:00,1032,My grade has not been updated.,Administrative,3.0,10,No
+925,2025-04-04 14:05:00,1047,How do I register for courses?,Administrative,3.6,38,No
+926,2025-04-04 14:10:00,1054,What is the deadline for fee payment?,Academic,4.4,27,No
+927,2025-04-04 14:15:00,1067,"I forgot my password, need assistance.",Technical,3.1,40,No
+928,2025-04-04 14:20:00,1083,How do I register for courses?,Academic,4.2,14,No
+929,2025-04-04 14:25:00,1018,Website shows error 404.,Financial,4.1,22,No
+930,2025-04-04 14:30:00,1055,What is the deadline for fee payment?,Financial,4.0,31,Yes
+931,2025-04-04 14:35:00,1031,What is the deadline for fee payment?,Academic,4.9,26,No
+932,2025-04-04 14:40:00,1076,I cannot access my student portal.,Financial,3.7,16,No
+933,2025-04-04 14:45:00,1059,Is there any scholarship available?,Financial,4.6,39,No
+934,2025-04-04 14:50:00,1034,"I forgot my password, need assistance.",Financial,4.2,18,Yes
+935,2025-04-04 14:55:00,1048,How do I register for courses?,Financial,3.1,41,Yes
+936,2025-04-04 15:00:00,1061,I cannot access my student portal.,Administrative,4.7,12,No
+937,2025-04-04 15:05:00,1010,Is there any scholarship available?,Technical,3.4,11,No
+938,2025-04-04 15:10:00,1060,Is there any scholarship available?,Administrative,3.5,13,Yes
+939,2025-04-04 15:15:00,1059,How can I get a transcript?,Administrative,3.8,36,No
+940,2025-04-04 15:20:00,1027,"I forgot my password, need assistance.",Technical,4.4,14,No
+941,2025-04-04 15:25:00,1034,What is the deadline for fee payment?,Technical,4.3,32,No
+942,2025-04-04 15:30:00,1094,Is there any scholarship available?,Technical,3.5,16,No
+943,2025-04-04 15:35:00,1037,My grade has not been updated.,Administrative,3.1,41,No
+944,2025-04-04 15:40:00,1048,When is the semester starting?,Academic,4.2,27,Yes
+945,2025-04-04 15:45:00,1097,Website shows error 404.,Financial,3.3,35,Yes
+946,2025-04-04 15:50:00,1078,Is there any scholarship available?,Financial,4.8,34,Yes
+947,2025-04-04 15:55:00,1073,I need help with course selection.,Technical,4.5,37,No
+948,2025-04-04 16:00:00,1017,Website shows error 404.,Administrative,3.2,31,No
+949,2025-04-04 16:05:00,1011,How can I get a transcript?,Administrative,3.4,26,No
+950,2025-04-04 16:10:00,1061,Is there any scholarship available?,Administrative,3.6,41,No
+951,2025-04-04 16:15:00,1020,I need help with course selection.,Financial,4.3,33,Yes
+952,2025-04-04 16:20:00,1075,I cannot access my student portal.,Technical,4.4,22,Yes
+953,2025-04-04 16:25:00,1006,Website shows error 404.,Technical,4.3,19,No
+954,2025-04-04 16:30:00,1078,I cannot access my student portal.,Financial,3.7,16,No
+955,2025-04-04 16:35:00,1051,I need help with course selection.,Technical,4.1,20,Yes
+956,2025-04-04 16:40:00,1089,When is the semester starting?,Financial,3.7,28,No
+957,2025-04-04 16:45:00,1031,I need help with course selection.,Financial,4.2,20,No
+958,2025-04-04 16:50:00,1080,How can I get a transcript?,Technical,4.9,28,Yes
+959,2025-04-04 16:55:00,1093,How do I register for courses?,Administrative,5.0,44,Yes
+960,2025-04-04 17:00:00,1061,"I forgot my password, need assistance.",Technical,4.7,29,No
+961,2025-04-04 17:05:00,1071,What is the deadline for fee payment?,Financial,4.9,37,No
+962,2025-04-04 17:10:00,1045,How do I register for courses?,Academic,3.5,32,Yes
+963,2025-04-04 17:15:00,1046,My grade has not been updated.,Administrative,4.4,32,No
+964,2025-04-04 17:20:00,1031,I need help with course selection.,Technical,4.0,20,Yes
+965,2025-04-04 17:25:00,1026,How do I register for courses?,Academic,3.4,34,Yes
+966,2025-04-04 17:30:00,1000,When is the semester starting?,Administrative,3.2,17,No
+967,2025-04-04 17:35:00,1086,What is the deadline for fee payment?,Administrative,3.2,14,No
+968,2025-04-04 17:40:00,1011,Website shows error 404.,Technical,3.1,37,No
+969,2025-04-04 17:45:00,1006,I need help with course selection.,Technical,3.6,25,Yes
+970,2025-04-04 17:50:00,1037,How do I register for courses?,Administrative,4.0,39,Yes
+971,2025-04-04 17:55:00,1052,I need help with course selection.,Academic,3.7,12,No
+972,2025-04-04 18:00:00,1051,When is the semester starting?,Financial,3.3,16,Yes
+973,2025-04-04 18:05:00,1062,I need help with course selection.,Academic,4.8,18,No
+974,2025-04-04 18:10:00,1038,What is the deadline for fee payment?,Financial,3.9,27,No
+975,2025-04-04 18:15:00,1014,How do I register for courses?,Administrative,3.7,15,Yes
+976,2025-04-04 18:20:00,1033,What is the deadline for fee payment?,Technical,3.0,11,No
+977,2025-04-04 18:25:00,1092,My grade has not been updated.,Technical,3.8,22,No
+978,2025-04-04 18:30:00,1091,What is the deadline for fee payment?,Technical,3.0,39,Yes
+979,2025-04-04 18:35:00,1086,"I forgot my password, need assistance.",Academic,3.8,39,Yes
+980,2025-04-04 18:40:00,1027,I need help with course selection.,Academic,3.9,35,No
+981,2025-04-04 18:45:00,1000,How do I register for courses?,Administrative,3.1,12,Yes
+982,2025-04-04 18:50:00,1079,I need help with course selection.,Administrative,4.0,38,Yes
+983,2025-04-04 18:55:00,1046,When is the semester starting?,Financial,4.6,30,No
+984,2025-04-04 19:00:00,1017,Website shows error 404.,Financial,4.5,18,No
+985,2025-04-04 19:05:00,1038,How can I get a transcript?,Financial,3.1,36,No
+986,2025-04-04 19:10:00,1079,My grade has not been updated.,Academic,3.3,36,Yes
+987,2025-04-04 19:15:00,1031,I cannot access my student portal.,Academic,4.7,42,Yes
+988,2025-04-04 19:20:00,1045,How can I get a transcript?,Academic,4.0,44,No
+989,2025-04-04 19:25:00,1075,I cannot access my student portal.,Academic,4.9,41,Yes
+990,2025-04-04 19:30:00,1096,What is the deadline for fee payment?,Technical,4.2,16,Yes
+991,2025-04-04 19:35:00,1019,When is the semester starting?,Academic,4.1,23,Yes
+992,2025-04-04 19:40:00,1099,My grade has not been updated.,Financial,3.7,17,No
+993,2025-04-04 19:45:00,1098,When is the semester starting?,Administrative,3.5,17,Yes
+994,2025-04-04 19:50:00,1018,What is the deadline for fee payment?,Financial,4.4,44,Yes
+995,2025-04-04 19:55:00,1046,How do I register for courses?,Technical,4.2,41,No
+996,2025-04-04 20:00:00,1024,Is there any scholarship available?,Technical,3.1,20,No
+997,2025-04-04 20:05:00,1089,I need help with course selection.,Administrative,4.0,13,Yes
+998,2025-04-04 20:10:00,1037,How do I register for courses?,Administrative,3.3,20,No
+999,2025-04-04 20:15:00,1086,"I forgot my password, need assistance.",Administrative,3.6,28,Yes
+1000,2025-04-04 20:20:00,1026,"I forgot my password, need assistance.",Financial,3.9,33,Yes
+1001,2025-04-04 20:25:00,1047,Is there any scholarship available?,Technical,4.5,17,Yes
+1002,2025-04-04 20:30:00,1019,I need help with course selection.,Academic,3.7,13,Yes
+1003,2025-04-04 20:35:00,1018,My grade has not been updated.,Administrative,3.0,22,No
+1004,2025-04-04 20:40:00,1070,Website shows error 404.,Financial,4.7,40,No
+1005,2025-04-04 20:45:00,1079,What is the deadline for fee payment?,Technical,4.8,32,No
+1006,2025-04-04 20:50:00,1065,I cannot access my student portal.,Financial,5.0,18,Yes
+1007,2025-04-04 20:55:00,1081,My grade has not been updated.,Technical,4.9,39,Yes
+1008,2025-04-04 21:00:00,1059,Is there any scholarship available?,Administrative,4.1,17,No
+1009,2025-04-04 21:05:00,1064,Is there any scholarship available?,Administrative,3.9,19,No
+1010,2025-04-04 21:10:00,1019,Is there any scholarship available?,Administrative,3.1,37,Yes
+1011,2025-04-04 21:15:00,1025,Website shows error 404.,Administrative,3.0,25,Yes
+1012,2025-04-04 21:20:00,1009,How do I register for courses?,Administrative,3.6,17,No
+1013,2025-04-04 21:25:00,1045,My grade has not been updated.,Technical,3.1,22,No
+1014,2025-04-04 21:30:00,1015,I need help with course selection.,Administrative,4.5,30,Yes
+1015,2025-04-04 21:35:00,1025,Is there any scholarship available?,Administrative,3.4,22,No
+1016,2025-04-04 21:40:00,1064,"I forgot my password, need assistance.",Financial,4.6,33,No
+1017,2025-04-04 21:45:00,1044,When is the semester starting?,Academic,3.3,40,Yes
+1018,2025-04-04 21:50:00,1069,I cannot access my student portal.,Technical,4.2,33,Yes
+1019,2025-04-04 21:55:00,1015,"I forgot my password, need assistance.",Academic,3.1,10,No
+1020,2025-04-04 22:00:00,1047,What is the deadline for fee payment?,Technical,3.8,37,Yes
+1021,2025-04-04 22:05:00,1045,I cannot access my student portal.,Academic,4.6,10,Yes
+1022,2025-04-04 22:10:00,1089,I cannot access my student portal.,Administrative,4.1,30,Yes
+1023,2025-04-04 22:15:00,1057,Is there any scholarship available?,Academic,3.2,33,Yes
+1024,2025-04-04 22:20:00,1085,"I forgot my password, need assistance.",Technical,4.8,30,Yes
+1025,2025-04-04 22:25:00,1080,I cannot access my student portal.,Academic,4.1,27,Yes
+1026,2025-04-04 22:30:00,1078,I need help with course selection.,Academic,4.7,10,Yes
+1027,2025-04-04 22:35:00,1033,How can I get a transcript?,Financial,4.5,37,No
+1028,2025-04-04 22:40:00,1034,I cannot access my student portal.,Financial,3.2,25,Yes
+1029,2025-04-04 22:45:00,1006,"I forgot my password, need assistance.",Administrative,4.1,31,No
+1030,2025-04-04 22:50:00,1017,When is the semester starting?,Technical,4.1,15,Yes
+1031,2025-04-04 22:55:00,1091,Is there any scholarship available?,Administrative,4.2,24,No
+1032,2025-04-04 23:00:00,1081,Website shows error 404.,Financial,3.6,42,No
+1033,2025-04-04 23:05:00,1045,How do I register for courses?,Technical,4.5,42,Yes
+1034,2025-04-04 23:10:00,1097,How can I get a transcript?,Technical,3.7,42,Yes
+1035,2025-04-04 23:15:00,1077,"I forgot my password, need assistance.",Administrative,3.0,16,Yes
+1036,2025-04-04 23:20:00,1064,How can I get a transcript?,Financial,4.4,44,No
+1037,2025-04-04 23:25:00,1064,I cannot access my student portal.,Financial,4.7,14,Yes
+1038,2025-04-04 23:30:00,1067,My grade has not been updated.,Technical,4.7,13,No
+1039,2025-04-04 23:35:00,1038,I cannot access my student portal.,Technical,4.3,35,No
+1040,2025-04-04 23:40:00,1009,How can I get a transcript?,Academic,3.7,36,No
+1041,2025-04-04 23:45:00,1093,I need help with course selection.,Technical,4.2,31,No
+1042,2025-04-04 23:50:00,1069,I need help with course selection.,Administrative,3.4,11,Yes
+1043,2025-04-04 23:55:00,1084,How do I register for courses?,Technical,3.5,25,Yes
+1044,2025-04-05 00:00:00,1091,How do I register for courses?,Technical,4.9,20,No
+1045,2025-04-05 00:05:00,1044,Website shows error 404.,Administrative,4.6,16,Yes
+1046,2025-04-05 00:10:00,1048,Website shows error 404.,Academic,3.7,42,No
+1047,2025-04-05 00:15:00,1054,I need help with course selection.,Financial,4.1,19,Yes
+1048,2025-04-05 00:20:00,1085,When is the semester starting?,Administrative,4.2,11,No
+1049,2025-04-05 00:25:00,1044,Website shows error 404.,Financial,3.4,37,No
+1050,2025-04-05 00:30:00,1020,What is the deadline for fee payment?,Administrative,4.5,31,No
+1051,2025-04-05 00:35:00,1000,Website shows error 404.,Financial,3.1,29,Yes
+1052,2025-04-05 00:40:00,1028,I need help with course selection.,Technical,3.1,24,No
+1053,2025-04-05 00:45:00,1010,I need help with course selection.,Technical,4.1,17,No
+1054,2025-04-05 00:50:00,1028,How can I get a transcript?,Academic,3.3,18,Yes
+1055,2025-04-05 00:55:00,1059,"I forgot my password, need assistance.",Financial,4.4,19,Yes
+1056,2025-04-05 01:00:00,1008,I need help with course selection.,Financial,4.2,29,Yes
+1057,2025-04-05 01:05:00,1025,I need help with course selection.,Financial,3.9,15,Yes
+1058,2025-04-05 01:10:00,1037,Is there any scholarship available?,Technical,3.7,20,No
+1059,2025-04-05 01:15:00,1061,What is the deadline for fee payment?,Academic,4.7,29,Yes
+1060,2025-04-05 01:20:00,1059,When is the semester starting?,Technical,3.3,37,Yes
+1061,2025-04-05 01:25:00,1040,Is there any scholarship available?,Academic,4.3,30,No
+1062,2025-04-05 01:30:00,1016,How do I register for courses?,Administrative,3.6,34,No
+1063,2025-04-05 01:35:00,1023,How do I register for courses?,Academic,3.6,14,No
+1064,2025-04-05 01:40:00,1026,I need help with course selection.,Administrative,3.2,13,Yes
+1065,2025-04-05 01:45:00,1017,Website shows error 404.,Technical,3.9,18,No
+1066,2025-04-05 01:50:00,1091,When is the semester starting?,Financial,3.5,33,Yes
+1067,2025-04-05 01:55:00,1082,I need help with course selection.,Financial,4.5,20,Yes
+1068,2025-04-05 02:00:00,1070,Is there any scholarship available?,Administrative,3.6,10,No
+1069,2025-04-05 02:05:00,1096,I need help with course selection.,Academic,4.8,23,No
+1070,2025-04-05 02:10:00,1042,What is the deadline for fee payment?,Academic,3.8,11,Yes
+1071,2025-04-05 02:15:00,1058,My grade has not been updated.,Technical,5.0,26,No
+1072,2025-04-05 02:20:00,1061,"I forgot my password, need assistance.",Academic,3.9,10,Yes
+1073,2025-04-05 02:25:00,1087,How can I get a transcript?,Financial,4.0,29,No
+1074,2025-04-05 02:30:00,1063,What is the deadline for fee payment?,Academic,4.4,22,Yes
+1075,2025-04-05 02:35:00,1011,What is the deadline for fee payment?,Technical,3.5,25,No
+1076,2025-04-05 02:40:00,1092,I cannot access my student portal.,Academic,4.1,33,No
+1077,2025-04-05 02:45:00,1095,What is the deadline for fee payment?,Administrative,3.3,13,Yes
+1078,2025-04-05 02:50:00,1071,Is there any scholarship available?,Academic,4.7,11,Yes
+1079,2025-04-05 02:55:00,1013,I cannot access my student portal.,Administrative,3.1,15,No
+1080,2025-04-05 03:00:00,1076,My grade has not been updated.,Financial,3.4,35,No
+1081,2025-04-05 03:05:00,1010,When is the semester starting?,Financial,4.1,27,No
+1082,2025-04-05 03:10:00,1008,How do I register for courses?,Financial,4.2,19,Yes
+1083,2025-04-05 03:15:00,1029,I need help with course selection.,Financial,4.8,35,Yes
+1084,2025-04-05 03:20:00,1008,How do I register for courses?,Technical,3.6,27,Yes
+1085,2025-04-05 03:25:00,1050,I need help with course selection.,Technical,4.2,30,Yes
+1086,2025-04-05 03:30:00,1035,When is the semester starting?,Academic,3.2,12,Yes
+1087,2025-04-05 03:35:00,1096,How can I get a transcript?,Administrative,3.2,23,Yes
+1088,2025-04-05 03:40:00,1096,When is the semester starting?,Academic,3.7,23,No
+1089,2025-04-05 03:45:00,1028,When is the semester starting?,Administrative,3.2,20,Yes
+1090,2025-04-05 03:50:00,1064,When is the semester starting?,Technical,3.4,34,No
+1091,2025-04-05 03:55:00,1034,When is the semester starting?,Academic,3.6,26,Yes
+1092,2025-04-05 04:00:00,1032,What is the deadline for fee payment?,Technical,4.6,25,Yes
+1093,2025-04-05 04:05:00,1064,I cannot access my student portal.,Technical,3.2,24,No
+1094,2025-04-05 04:10:00,1052,When is the semester starting?,Administrative,4.8,14,No
+1095,2025-04-05 04:15:00,1076,"I forgot my password, need assistance.",Administrative,3.2,24,No
+1096,2025-04-05 04:20:00,1076,I cannot access my student portal.,Academic,4.0,15,Yes
+1097,2025-04-05 04:25:00,1014,How can I get a transcript?,Administrative,3.6,29,No
+1098,2025-04-05 04:30:00,1072,I cannot access my student portal.,Technical,4.1,38,No
+1099,2025-04-05 04:35:00,1099,I need help with course selection.,Financial,4.2,42,Yes
+1100,2025-04-05 04:40:00,1026,I need help with course selection.,Academic,4.5,17,Yes
+1101,2025-04-05 04:45:00,1056,I need help with course selection.,Administrative,3.6,31,Yes
+1102,2025-04-05 04:50:00,1006,"I forgot my password, need assistance.",Technical,4.5,33,Yes
+1103,2025-04-05 04:55:00,1077,Website shows error 404.,Technical,4.2,36,Yes
+1104,2025-04-05 05:00:00,1078,When is the semester starting?,Technical,4.8,27,No
+1105,2025-04-05 05:05:00,1097,"I forgot my password, need assistance.",Administrative,5.0,19,Yes
+1106,2025-04-05 05:10:00,1090,How can I get a transcript?,Academic,3.9,17,Yes
+1107,2025-04-05 05:15:00,1096,"I forgot my password, need assistance.",Academic,3.4,39,Yes
+1108,2025-04-05 05:20:00,1009,What is the deadline for fee payment?,Academic,4.2,11,No
+1109,2025-04-05 05:25:00,1014,My grade has not been updated.,Technical,3.3,21,No
+1110,2025-04-05 05:30:00,1068,Website shows error 404.,Administrative,4.6,36,Yes
+1111,2025-04-05 05:35:00,1059,Website shows error 404.,Administrative,3.6,13,Yes
+1112,2025-04-05 05:40:00,1068,My grade has not been updated.,Administrative,3.5,10,Yes
+1113,2025-04-05 05:45:00,1073,"I forgot my password, need assistance.",Administrative,3.2,19,No
+1114,2025-04-05 05:50:00,1085,My grade has not been updated.,Technical,3.7,44,Yes
+1115,2025-04-05 05:55:00,1097,When is the semester starting?,Academic,3.0,41,No
+1116,2025-04-05 06:00:00,1038,When is the semester starting?,Technical,4.9,11,Yes
+1117,2025-04-05 06:05:00,1041,I need help with course selection.,Academic,3.7,13,No
+1118,2025-04-05 06:10:00,1050,How can I get a transcript?,Technical,4.3,22,No
+1119,2025-04-05 06:15:00,1054,How can I get a transcript?,Academic,4.8,24,No
+1120,2025-04-05 06:20:00,1052,My grade has not been updated.,Administrative,3.8,32,No
+1121,2025-04-05 06:25:00,1087,What is the deadline for fee payment?,Administrative,4.6,33,No
+1122,2025-04-05 06:30:00,1054,I need help with course selection.,Administrative,4.4,31,Yes
+1123,2025-04-05 06:35:00,1057,My grade has not been updated.,Financial,3.6,31,No
+1124,2025-04-05 06:40:00,1052,How do I register for courses?,Academic,4.2,22,No
+1125,2025-04-05 06:45:00,1065,When is the semester starting?,Administrative,4.5,17,No
+1126,2025-04-05 06:50:00,1009,Website shows error 404.,Technical,4.6,26,No
+1127,2025-04-05 06:55:00,1026,I need help with course selection.,Academic,3.1,19,No
+1128,2025-04-05 07:00:00,1099,"I forgot my password, need assistance.",Technical,4.3,17,No
+1129,2025-04-05 07:05:00,1007,Website shows error 404.,Academic,4.3,26,Yes
+1130,2025-04-05 07:10:00,1005,What is the deadline for fee payment?,Administrative,3.7,29,Yes
+1131,2025-04-05 07:15:00,1045,Website shows error 404.,Administrative,4.3,26,No
+1132,2025-04-05 07:20:00,1008,Is there any scholarship available?,Technical,3.8,29,No
+1133,2025-04-05 07:25:00,1047,"I forgot my password, need assistance.",Academic,4.3,42,No
+1134,2025-04-05 07:30:00,1035,What is the deadline for fee payment?,Administrative,4.7,30,Yes
+1135,2025-04-05 07:35:00,1043,Website shows error 404.,Administrative,4.6,16,Yes
+1136,2025-04-05 07:40:00,1003,What is the deadline for fee payment?,Academic,3.9,12,No
+1137,2025-04-05 07:45:00,1038,Is there any scholarship available?,Technical,3.3,18,Yes
+1138,2025-04-05 07:50:00,1073,I need help with course selection.,Administrative,4.4,17,No
+1139,2025-04-05 07:55:00,1037,I need help with course selection.,Technical,4.9,13,No
+1140,2025-04-05 08:00:00,1009,Website shows error 404.,Technical,4.3,41,No
+1141,2025-04-05 08:05:00,1017,"I forgot my password, need assistance.",Academic,3.0,33,No
+1142,2025-04-05 08:10:00,1018,My grade has not been updated.,Administrative,3.4,11,Yes
+1143,2025-04-05 08:15:00,1055,When is the semester starting?,Financial,4.7,33,Yes
+1144,2025-04-05 08:20:00,1009,Is there any scholarship available?,Technical,3.5,24,Yes
+1145,2025-04-05 08:25:00,1032,How do I register for courses?,Technical,4.7,22,Yes
+1146,2025-04-05 08:30:00,1087,I cannot access my student portal.,Academic,3.8,41,No
+1147,2025-04-05 08:35:00,1060,Website shows error 404.,Administrative,4.9,44,No
+1148,2025-04-05 08:40:00,1024,How do I register for courses?,Technical,4.2,13,No
+1149,2025-04-05 08:45:00,1050,How can I get a transcript?,Financial,4.5,16,No
+1150,2025-04-05 08:50:00,1071,How do I register for courses?,Technical,5.0,42,No
+1151,2025-04-05 08:55:00,1029,"I forgot my password, need assistance.",Academic,4.7,27,No
+1152,2025-04-05 09:00:00,1060,How can I get a transcript?,Technical,4.8,26,No
+1153,2025-04-05 09:05:00,1083,Is there any scholarship available?,Financial,4.8,27,No
+1154,2025-04-05 09:10:00,1016,Website shows error 404.,Administrative,4.2,28,No
+1155,2025-04-05 09:15:00,1055,Website shows error 404.,Administrative,4.7,18,Yes
+1156,2025-04-05 09:20:00,1085,What is the deadline for fee payment?,Administrative,4.3,39,No
+1157,2025-04-05 09:25:00,1000,Is there any scholarship available?,Technical,3.5,44,No
+1158,2025-04-05 09:30:00,1044,"I forgot my password, need assistance.",Technical,4.0,23,Yes
+1159,2025-04-05 09:35:00,1003,How can I get a transcript?,Administrative,3.6,18,No
+1160,2025-04-05 09:40:00,1090,I cannot access my student portal.,Technical,3.3,25,No
+1161,2025-04-05 09:45:00,1000,How can I get a transcript?,Financial,3.7,30,Yes
+1162,2025-04-05 09:50:00,1054,When is the semester starting?,Administrative,4.8,16,No
+1163,2025-04-05 09:55:00,1007,How do I register for courses?,Technical,3.5,38,Yes
+1164,2025-04-05 10:00:00,1049,I cannot access my student portal.,Technical,4.4,17,Yes
+1165,2025-04-05 10:05:00,1015,Website shows error 404.,Financial,3.4,44,Yes
+1166,2025-04-05 10:10:00,1016,I need help with course selection.,Financial,3.2,28,No
+1167,2025-04-05 10:15:00,1023,Website shows error 404.,Technical,3.3,31,Yes
+1168,2025-04-05 10:20:00,1073,"I forgot my password, need assistance.",Administrative,3.7,23,Yes
+1169,2025-04-05 10:25:00,1037,What is the deadline for fee payment?,Administrative,4.2,10,No
+1170,2025-04-05 10:30:00,1043,I cannot access my student portal.,Financial,3.7,24,No
+1171,2025-04-05 10:35:00,1096,How do I register for courses?,Technical,4.2,18,No
+1172,2025-04-05 10:40:00,1018,Is there any scholarship available?,Financial,4.2,13,Yes
+1173,2025-04-05 10:45:00,1041,How can I get a transcript?,Technical,3.1,40,Yes
+1174,2025-04-05 10:50:00,1008,How can I get a transcript?,Administrative,4.0,28,Yes
+1175,2025-04-05 10:55:00,1007,Website shows error 404.,Financial,3.4,34,No
+1176,2025-04-05 11:00:00,1077,"I forgot my password, need assistance.",Financial,4.1,18,No
+1177,2025-04-05 11:05:00,1084,My grade has not been updated.,Financial,3.4,41,Yes
+1178,2025-04-05 11:10:00,1056,What is the deadline for fee payment?,Technical,4.7,39,No
+1179,2025-04-05 11:15:00,1054,I need help with course selection.,Academic,4.9,11,No
+1180,2025-04-05 11:20:00,1093,I need help with course selection.,Financial,4.3,33,No
+1181,2025-04-05 11:25:00,1020,My grade has not been updated.,Technical,4.7,18,Yes
+1182,2025-04-05 11:30:00,1051,I cannot access my student portal.,Technical,4.3,21,No
+1183,2025-04-05 11:35:00,1081,What is the deadline for fee payment?,Academic,3.1,15,Yes
+1184,2025-04-05 11:40:00,1013,What is the deadline for fee payment?,Financial,3.9,44,Yes
+1185,2025-04-05 11:45:00,1027,Website shows error 404.,Administrative,3.0,43,Yes
+1186,2025-04-05 11:50:00,1072,I need help with course selection.,Technical,4.1,26,Yes
+1187,2025-04-05 11:55:00,1047,I cannot access my student portal.,Financial,3.7,43,Yes
+1188,2025-04-05 12:00:00,1084,I cannot access my student portal.,Technical,3.5,42,Yes
+1189,2025-04-05 12:05:00,1092,How can I get a transcript?,Academic,4.6,37,No
+1190,2025-04-05 12:10:00,1050,What is the deadline for fee payment?,Financial,3.5,44,Yes
+1191,2025-04-05 12:15:00,1094,What is the deadline for fee payment?,Technical,3.3,23,Yes
+1192,2025-04-05 12:20:00,1015,I cannot access my student portal.,Technical,4.1,22,Yes
+1193,2025-04-05 12:25:00,1021,I need help with course selection.,Administrative,3.6,39,No
+1194,2025-04-05 12:30:00,1092,I cannot access my student portal.,Financial,3.2,13,Yes
+1195,2025-04-05 12:35:00,1003,What is the deadline for fee payment?,Administrative,4.1,11,No
+1196,2025-04-05 12:40:00,1033,"I forgot my password, need assistance.",Administrative,3.5,14,No
+1197,2025-04-05 12:45:00,1065,Website shows error 404.,Academic,4.1,42,No
+1198,2025-04-05 12:50:00,1071,My grade has not been updated.,Financial,3.5,11,Yes
+1199,2025-04-05 12:55:00,1014,What is the deadline for fee payment?,Administrative,3.5,32,No
+1200,2025-04-05 13:00:00,1001,I cannot access my student portal.,Technical,3.6,41,No
+1201,2025-04-05 13:05:00,1030,I cannot access my student portal.,Financial,3.5,30,No
+1202,2025-04-05 13:10:00,1047,How do I register for courses?,Administrative,3.9,27,No
+1203,2025-04-05 13:15:00,1070,How can I get a transcript?,Technical,4.2,32,No
+1204,2025-04-05 13:20:00,1055,What is the deadline for fee payment?,Academic,4.0,26,No
+1205,2025-04-05 13:25:00,1020,"I forgot my password, need assistance.",Technical,3.2,10,Yes
+1206,2025-04-05 13:30:00,1013,I cannot access my student portal.,Academic,3.9,39,No
+1207,2025-04-05 13:35:00,1017,Website shows error 404.,Administrative,4.0,24,Yes
+1208,2025-04-05 13:40:00,1083,How do I register for courses?,Financial,4.9,41,No
+1209,2025-04-05 13:45:00,1016,How do I register for courses?,Technical,4.9,15,Yes
+1210,2025-04-05 13:50:00,1050,"I forgot my password, need assistance.",Administrative,4.7,26,No
+1211,2025-04-05 13:55:00,1067,My grade has not been updated.,Administrative,3.9,32,No
+1212,2025-04-05 14:00:00,1084,Is there any scholarship available?,Academic,4.8,22,Yes
+1213,2025-04-05 14:05:00,1088,My grade has not been updated.,Financial,4.4,35,Yes
+1214,2025-04-05 14:10:00,1086,Is there any scholarship available?,Financial,3.7,26,Yes
+1215,2025-04-05 14:15:00,1053,When is the semester starting?,Academic,4.1,34,No
+1216,2025-04-05 14:20:00,1047,Is there any scholarship available?,Academic,4.9,28,Yes
+1217,2025-04-05 14:25:00,1033,How can I get a transcript?,Financial,4.5,24,Yes
+1218,2025-04-05 14:30:00,1068,How do I register for courses?,Administrative,3.4,35,No
+1219,2025-04-05 14:35:00,1011,When is the semester starting?,Academic,4.1,26,No
+1220,2025-04-05 14:40:00,1080,When is the semester starting?,Administrative,4.5,21,Yes
+1221,2025-04-05 14:45:00,1003,How do I register for courses?,Technical,3.6,42,No
+1222,2025-04-05 14:50:00,1078,How do I register for courses?,Technical,3.4,23,No
+1223,2025-04-05 14:55:00,1013,What is the deadline for fee payment?,Academic,4.9,19,No
+1224,2025-04-05 15:00:00,1076,My grade has not been updated.,Technical,5.0,39,No
+1225,2025-04-05 15:05:00,1073,I need help with course selection.,Academic,3.5,28,No
+1226,2025-04-05 15:10:00,1038,What is the deadline for fee payment?,Financial,4.4,17,Yes
+1227,2025-04-05 15:15:00,1015,I cannot access my student portal.,Administrative,3.6,26,Yes
+1228,2025-04-05 15:20:00,1066,How can I get a transcript?,Administrative,3.8,19,No
+1229,2025-04-05 15:25:00,1098,"I forgot my password, need assistance.",Academic,3.1,43,Yes
+1230,2025-04-05 15:30:00,1025,How do I register for courses?,Technical,4.9,16,No
+1231,2025-04-05 15:35:00,1039,"I forgot my password, need assistance.",Academic,4.0,32,No
+1232,2025-04-05 15:40:00,1054,How do I register for courses?,Administrative,3.8,44,Yes
+1233,2025-04-05 15:45:00,1087,When is the semester starting?,Academic,3.4,24,No
+1234,2025-04-05 15:50:00,1025,I need help with course selection.,Technical,4.5,43,Yes
+1235,2025-04-05 15:55:00,1055,I need help with course selection.,Technical,4.0,38,No
+1236,2025-04-05 16:00:00,1015,Is there any scholarship available?,Administrative,4.2,35,No
+1237,2025-04-05 16:05:00,1074,Is there any scholarship available?,Administrative,3.4,32,Yes
+1238,2025-04-05 16:10:00,1075,I need help with course selection.,Financial,4.2,36,No
+1239,2025-04-05 16:15:00,1093,When is the semester starting?,Administrative,3.3,28,No
+1240,2025-04-05 16:20:00,1047,Is there any scholarship available?,Financial,3.1,19,Yes
+1241,2025-04-05 16:25:00,1025,Is there any scholarship available?,Financial,3.2,35,Yes
+1242,2025-04-05 16:30:00,1065,What is the deadline for fee payment?,Administrative,4.4,10,Yes
+1243,2025-04-05 16:35:00,1038,Is there any scholarship available?,Academic,3.4,17,No
+1244,2025-04-05 16:40:00,1032,How do I register for courses?,Administrative,4.2,30,No
+1245,2025-04-05 16:45:00,1095,I need help with course selection.,Academic,5.0,20,Yes
+1246,2025-04-05 16:50:00,1005,Is there any scholarship available?,Financial,3.4,29,No
+1247,2025-04-05 16:55:00,1045,How do I register for courses?,Academic,3.9,19,Yes
+1248,2025-04-05 17:00:00,1028,What is the deadline for fee payment?,Administrative,4.7,32,Yes
+1249,2025-04-05 17:05:00,1038,I cannot access my student portal.,Technical,3.9,25,Yes
+1250,2025-04-05 17:10:00,1046,How do I register for courses?,Financial,4.9,32,Yes
+1251,2025-04-05 17:15:00,1071,Website shows error 404.,Technical,3.8,21,Yes
+1252,2025-04-05 17:20:00,1055,I cannot access my student portal.,Technical,4.4,29,Yes
+1253,2025-04-05 17:25:00,1090,Is there any scholarship available?,Administrative,4.2,40,No
+1254,2025-04-05 17:30:00,1082,"I forgot my password, need assistance.",Financial,3.1,15,No
+1255,2025-04-05 17:35:00,1046,How can I get a transcript?,Administrative,3.7,25,Yes
+1256,2025-04-05 17:40:00,1092,How do I register for courses?,Academic,3.4,23,No
+1257,2025-04-05 17:45:00,1019,My grade has not been updated.,Technical,3.1,43,No
+1258,2025-04-05 17:50:00,1017,"I forgot my password, need assistance.",Technical,4.5,35,No
+1259,2025-04-05 17:55:00,1034,Website shows error 404.,Academic,3.1,10,No
+1260,2025-04-05 18:00:00,1055,What is the deadline for fee payment?,Technical,4.7,23,No
+1261,2025-04-05 18:05:00,1075,"I forgot my password, need assistance.",Financial,4.3,11,Yes
+1262,2025-04-05 18:10:00,1044,What is the deadline for fee payment?,Academic,4.5,22,No
+1263,2025-04-05 18:15:00,1076,When is the semester starting?,Financial,3.0,10,Yes
+1264,2025-04-05 18:20:00,1048,I cannot access my student portal.,Technical,4.8,40,Yes
+1265,2025-04-05 18:25:00,1014,"I forgot my password, need assistance.",Academic,4.9,42,Yes
+1266,2025-04-05 18:30:00,1081,Is there any scholarship available?,Academic,4.0,12,No
+1267,2025-04-05 18:35:00,1017,My grade has not been updated.,Financial,3.1,30,No
+1268,2025-04-05 18:40:00,1080,I cannot access my student portal.,Administrative,3.7,28,No
+1269,2025-04-05 18:45:00,1078,What is the deadline for fee payment?,Financial,4.3,38,No
+1270,2025-04-05 18:50:00,1047,Is there any scholarship available?,Technical,3.9,30,Yes
+1271,2025-04-05 18:55:00,1001,My grade has not been updated.,Technical,4.6,15,Yes
+1272,2025-04-05 19:00:00,1092,"I forgot my password, need assistance.",Academic,4.6,25,No
+1273,2025-04-05 19:05:00,1097,Website shows error 404.,Technical,4.1,16,Yes
+1274,2025-04-05 19:10:00,1071,How do I register for courses?,Administrative,4.7,21,Yes
+1275,2025-04-05 19:15:00,1041,My grade has not been updated.,Technical,5.0,13,No
+1276,2025-04-05 19:20:00,1076,I cannot access my student portal.,Administrative,3.8,30,Yes
+1277,2025-04-05 19:25:00,1043,What is the deadline for fee payment?,Administrative,3.1,11,No
+1278,2025-04-05 19:30:00,1084,Is there any scholarship available?,Academic,4.4,23,Yes
+1279,2025-04-05 19:35:00,1042,How do I register for courses?,Technical,4.3,17,Yes
+1280,2025-04-05 19:40:00,1049,"I forgot my password, need assistance.",Technical,3.2,16,No
+1281,2025-04-05 19:45:00,1089,My grade has not been updated.,Technical,4.6,41,No
+1282,2025-04-05 19:50:00,1022,What is the deadline for fee payment?,Technical,4.2,19,No
+1283,2025-04-05 19:55:00,1056,Is there any scholarship available?,Administrative,4.7,15,No
+1284,2025-04-05 20:00:00,1070,My grade has not been updated.,Academic,3.7,37,No
+1285,2025-04-05 20:05:00,1038,I cannot access my student portal.,Administrative,4.5,10,No
+1286,2025-04-05 20:10:00,1097,How can I get a transcript?,Academic,3.1,13,Yes
+1287,2025-04-05 20:15:00,1059,What is the deadline for fee payment?,Academic,3.9,34,Yes
+1288,2025-04-05 20:20:00,1080,What is the deadline for fee payment?,Technical,4.2,22,Yes
+1289,2025-04-05 20:25:00,1057,I need help with course selection.,Academic,3.2,41,Yes
+1290,2025-04-05 20:30:00,1063,What is the deadline for fee payment?,Technical,4.4,18,Yes
+1291,2025-04-05 20:35:00,1090,What is the deadline for fee payment?,Academic,3.4,15,Yes
+1292,2025-04-05 20:40:00,1075,My grade has not been updated.,Administrative,3.7,30,Yes
+1293,2025-04-05 20:45:00,1061,"I forgot my password, need assistance.",Academic,4.5,43,Yes
+1294,2025-04-05 20:50:00,1049,How can I get a transcript?,Academic,3.1,41,Yes
+1295,2025-04-05 20:55:00,1060,How do I register for courses?,Technical,3.9,16,No
+1296,2025-04-05 21:00:00,1063,When is the semester starting?,Academic,3.1,16,No
+1297,2025-04-05 21:05:00,1076,Is there any scholarship available?,Financial,4.3,19,No
+1298,2025-04-05 21:10:00,1013,I need help with course selection.,Administrative,4.4,19,Yes
+1299,2025-04-05 21:15:00,1078,How do I register for courses?,Administrative,4.6,28,No
+1300,2025-04-05 21:20:00,1086,"I forgot my password, need assistance.",Academic,4.2,18,Yes
+1301,2025-04-05 21:25:00,1048,"I forgot my password, need assistance.",Academic,4.0,42,No
+1302,2025-04-05 21:30:00,1095,How can I get a transcript?,Financial,3.4,39,Yes
+1303,2025-04-05 21:35:00,1042,My grade has not been updated.,Technical,4.5,24,Yes
+1304,2025-04-05 21:40:00,1077,How do I register for courses?,Technical,3.0,23,Yes
+1305,2025-04-05 21:45:00,1063,How can I get a transcript?,Technical,4.7,14,Yes
+1306,2025-04-05 21:50:00,1075,I cannot access my student portal.,Administrative,4.6,32,Yes
+1307,2025-04-05 21:55:00,1031,How do I register for courses?,Technical,3.8,10,Yes
+1308,2025-04-05 22:00:00,1045,When is the semester starting?,Financial,4.5,35,No
+1309,2025-04-05 22:05:00,1063,My grade has not been updated.,Financial,3.3,12,No
+1310,2025-04-05 22:10:00,1091,Is there any scholarship available?,Financial,4.5,43,No
+1311,2025-04-05 22:15:00,1099,"I forgot my password, need assistance.",Administrative,5.0,10,No
+1312,2025-04-05 22:20:00,1009,What is the deadline for fee payment?,Technical,4.0,26,No
+1313,2025-04-05 22:25:00,1023,I need help with course selection.,Financial,4.3,31,No
+1314,2025-04-05 22:30:00,1018,When is the semester starting?,Technical,3.7,26,Yes
+1315,2025-04-05 22:35:00,1062,Is there any scholarship available?,Technical,4.2,38,No
+1316,2025-04-05 22:40:00,1006,What is the deadline for fee payment?,Administrative,3.2,44,No
+1317,2025-04-05 22:45:00,1084,When is the semester starting?,Administrative,4.2,43,Yes
+1318,2025-04-05 22:50:00,1038,When is the semester starting?,Academic,3.1,26,No
+1319,2025-04-05 22:55:00,1005,My grade has not been updated.,Administrative,3.0,25,No
+1320,2025-04-05 23:00:00,1011,What is the deadline for fee payment?,Technical,3.5,33,No
+1321,2025-04-05 23:05:00,1080,I need help with course selection.,Academic,4.8,31,Yes
+1322,2025-04-05 23:10:00,1085,I need help with course selection.,Technical,4.1,18,Yes
+1323,2025-04-05 23:15:00,1083,My grade has not been updated.,Administrative,3.6,17,Yes
+1324,2025-04-05 23:20:00,1080,When is the semester starting?,Administrative,4.4,36,No
+1325,2025-04-05 23:25:00,1091,When is the semester starting?,Academic,3.4,11,Yes
+1326,2025-04-05 23:30:00,1067,When is the semester starting?,Financial,3.6,42,Yes
+1327,2025-04-05 23:35:00,1093,How do I register for courses?,Technical,4.5,28,Yes
+1328,2025-04-05 23:40:00,1092,"I forgot my password, need assistance.",Administrative,3.3,11,Yes
+1329,2025-04-05 23:45:00,1054,I need help with course selection.,Academic,5.0,12,Yes
+1330,2025-04-05 23:50:00,1057,"I forgot my password, need assistance.",Academic,4.4,44,No
+1331,2025-04-05 23:55:00,1036,How can I get a transcript?,Academic,4.0,40,Yes
+1332,2025-04-06 00:00:00,1053,How do I register for courses?,Administrative,4.4,18,Yes
+1333,2025-04-06 00:05:00,1051,My grade has not been updated.,Administrative,3.6,31,Yes
+1334,2025-04-06 00:10:00,1017,"I forgot my password, need assistance.",Administrative,3.2,28,Yes
+1335,2025-04-06 00:15:00,1097,My grade has not been updated.,Academic,3.1,31,No
+1336,2025-04-06 00:20:00,1081,Website shows error 404.,Administrative,4.9,11,No
+1337,2025-04-06 00:25:00,1025,What is the deadline for fee payment?,Academic,4.6,38,No
+1338,2025-04-06 00:30:00,1089,When is the semester starting?,Academic,3.3,25,Yes
+1339,2025-04-06 00:35:00,1078,How do I register for courses?,Administrative,3.0,23,No
+1340,2025-04-06 00:40:00,1042,What is the deadline for fee payment?,Administrative,4.1,33,No
+1341,2025-04-06 00:45:00,1045,My grade has not been updated.,Administrative,3.0,40,No
+1342,2025-04-06 00:50:00,1071,When is the semester starting?,Academic,4.2,39,Yes
+1343,2025-04-06 00:55:00,1015,My grade has not been updated.,Administrative,4.3,23,Yes
+1344,2025-04-06 01:00:00,1003,My grade has not been updated.,Administrative,4.5,18,No
+1345,2025-04-06 01:05:00,1021,When is the semester starting?,Academic,5.0,33,No
+1346,2025-04-06 01:10:00,1088,Is there any scholarship available?,Administrative,5.0,38,No
+1347,2025-04-06 01:15:00,1011,My grade has not been updated.,Financial,3.4,33,Yes
+1348,2025-04-06 01:20:00,1077,"I forgot my password, need assistance.",Administrative,3.8,40,No
+1349,2025-04-06 01:25:00,1094,I cannot access my student portal.,Administrative,4.2,30,No
+1350,2025-04-06 01:30:00,1035,"I forgot my password, need assistance.",Technical,3.7,22,Yes
+1351,2025-04-06 01:35:00,1000,How do I register for courses?,Administrative,5.0,44,No
+1352,2025-04-06 01:40:00,1061,Is there any scholarship available?,Administrative,4.7,42,No
+1353,2025-04-06 01:45:00,1056,I need help with course selection.,Technical,3.9,10,No
+1354,2025-04-06 01:50:00,1050,How do I register for courses?,Technical,5.0,34,Yes
+1355,2025-04-06 01:55:00,1042,I need help with course selection.,Administrative,4.3,12,Yes
+1356,2025-04-06 02:00:00,1084,When is the semester starting?,Academic,4.0,32,No
+1357,2025-04-06 02:05:00,1094,Website shows error 404.,Technical,4.1,15,Yes
+1358,2025-04-06 02:10:00,1057,I need help with course selection.,Financial,4.8,34,Yes
+1359,2025-04-06 02:15:00,1061,I cannot access my student portal.,Academic,4.7,37,Yes
+1360,2025-04-06 02:20:00,1051,I need help with course selection.,Financial,4.9,18,Yes
+1361,2025-04-06 02:25:00,1056,I need help with course selection.,Financial,3.9,19,Yes
+1362,2025-04-06 02:30:00,1006,Is there any scholarship available?,Financial,4.7,27,No
+1363,2025-04-06 02:35:00,1036,I cannot access my student portal.,Technical,3.2,34,Yes
+1364,2025-04-06 02:40:00,1054,"I forgot my password, need assistance.",Financial,4.4,17,Yes
+1365,2025-04-06 02:45:00,1000,I need help with course selection.,Financial,3.8,33,No
+1366,2025-04-06 02:50:00,1031,Website shows error 404.,Academic,3.1,40,No
+1367,2025-04-06 02:55:00,1074,When is the semester starting?,Technical,3.3,29,No
+1368,2025-04-06 03:00:00,1086,I cannot access my student portal.,Administrative,3.8,23,Yes
+1369,2025-04-06 03:05:00,1076,I cannot access my student portal.,Financial,3.0,15,Yes
+1370,2025-04-06 03:10:00,1054,"I forgot my password, need assistance.",Administrative,4.4,17,No
+1371,2025-04-06 03:15:00,1039,When is the semester starting?,Technical,4.1,38,Yes
+1372,2025-04-06 03:20:00,1087,When is the semester starting?,Financial,3.2,13,Yes
+1373,2025-04-06 03:25:00,1095,Is there any scholarship available?,Technical,4.0,28,Yes
+1374,2025-04-06 03:30:00,1054,How do I register for courses?,Administrative,4.0,37,No
+1375,2025-04-06 03:35:00,1021,"I forgot my password, need assistance.",Technical,3.3,44,Yes
+1376,2025-04-06 03:40:00,1008,I need help with course selection.,Academic,3.3,31,Yes
+1377,2025-04-06 03:45:00,1038,How can I get a transcript?,Academic,3.9,36,Yes
+1378,2025-04-06 03:50:00,1054,"I forgot my password, need assistance.",Financial,4.7,22,No
+1379,2025-04-06 03:55:00,1070,"I forgot my password, need assistance.",Technical,4.1,32,No
+1380,2025-04-06 04:00:00,1037,What is the deadline for fee payment?,Technical,4.6,32,No
+1381,2025-04-06 04:05:00,1028,"I forgot my password, need assistance.",Technical,4.7,12,No
+1382,2025-04-06 04:10:00,1058,When is the semester starting?,Administrative,4.1,34,Yes
+1383,2025-04-06 04:15:00,1033,What is the deadline for fee payment?,Academic,4.4,16,No
+1384,2025-04-06 04:20:00,1006,How can I get a transcript?,Administrative,3.8,38,Yes
+1385,2025-04-06 04:25:00,1031,What is the deadline for fee payment?,Financial,4.9,11,Yes
+1386,2025-04-06 04:30:00,1080,I cannot access my student portal.,Academic,4.1,12,No
+1387,2025-04-06 04:35:00,1074,My grade has not been updated.,Financial,4.6,35,Yes
+1388,2025-04-06 04:40:00,1073,How can I get a transcript?,Academic,3.5,31,No
+1389,2025-04-06 04:45:00,1033,I cannot access my student portal.,Administrative,3.4,26,No
+1390,2025-04-06 04:50:00,1047,My grade has not been updated.,Administrative,3.1,28,No
+1391,2025-04-06 04:55:00,1067,My grade has not been updated.,Academic,4.9,43,Yes
+1392,2025-04-06 05:00:00,1031,My grade has not been updated.,Administrative,4.2,23,Yes
+1393,2025-04-06 05:05:00,1029,I cannot access my student portal.,Financial,4.8,41,Yes
+1394,2025-04-06 05:10:00,1067,I need help with course selection.,Administrative,3.3,25,Yes
+1395,2025-04-06 05:15:00,1028,Website shows error 404.,Academic,3.8,17,Yes
+1396,2025-04-06 05:20:00,1095,I cannot access my student portal.,Academic,3.2,10,Yes
+1397,2025-04-06 05:25:00,1039,What is the deadline for fee payment?,Financial,4.1,27,Yes
+1398,2025-04-06 05:30:00,1084,How do I register for courses?,Academic,3.8,22,Yes
+1399,2025-04-06 05:35:00,1011,I cannot access my student portal.,Academic,4.7,34,No
+1400,2025-04-06 05:40:00,1000,I cannot access my student portal.,Administrative,4.3,21,No
+1401,2025-04-06 05:45:00,1075,My grade has not been updated.,Administrative,3.5,28,Yes
+1402,2025-04-06 05:50:00,1086,How do I register for courses?,Administrative,4.2,19,No
+1403,2025-04-06 05:55:00,1057,"I forgot my password, need assistance.",Administrative,3.5,41,Yes
+1404,2025-04-06 06:00:00,1039,I cannot access my student portal.,Administrative,3.1,19,Yes
+1405,2025-04-06 06:05:00,1076,Is there any scholarship available?,Financial,3.7,28,No
+1406,2025-04-06 06:10:00,1086,When is the semester starting?,Academic,3.3,23,Yes
+1407,2025-04-06 06:15:00,1021,When is the semester starting?,Administrative,3.5,22,No
+1408,2025-04-06 06:20:00,1067,Website shows error 404.,Administrative,3.8,23,Yes
+1409,2025-04-06 06:25:00,1029,Is there any scholarship available?,Technical,3.6,13,No
+1410,2025-04-06 06:30:00,1022,How can I get a transcript?,Administrative,4.3,14,Yes
+1411,2025-04-06 06:35:00,1027,How can I get a transcript?,Academic,4.4,18,No
+1412,2025-04-06 06:40:00,1050,Website shows error 404.,Administrative,3.1,20,No
+1413,2025-04-06 06:45:00,1059,Is there any scholarship available?,Academic,3.9,25,No
+1414,2025-04-06 06:50:00,1028,I cannot access my student portal.,Financial,4.8,12,Yes
+1415,2025-04-06 06:55:00,1072,I need help with course selection.,Administrative,4.7,24,No
+1416,2025-04-06 07:00:00,1003,I cannot access my student portal.,Technical,4.9,17,Yes
+1417,2025-04-06 07:05:00,1030,My grade has not been updated.,Administrative,4.2,34,Yes
+1418,2025-04-06 07:10:00,1009,Is there any scholarship available?,Administrative,3.6,38,No
+1419,2025-04-06 07:15:00,1063,Website shows error 404.,Technical,3.9,33,Yes
+1420,2025-04-06 07:20:00,1029,I cannot access my student portal.,Academic,3.5,11,Yes
+1421,2025-04-06 07:25:00,1038,What is the deadline for fee payment?,Academic,3.9,35,No
+1422,2025-04-06 07:30:00,1024,How can I get a transcript?,Academic,4.0,22,Yes
+1423,2025-04-06 07:35:00,1062,How do I register for courses?,Academic,4.1,34,No
+1424,2025-04-06 07:40:00,1017,"I forgot my password, need assistance.",Administrative,4.6,22,No
+1425,2025-04-06 07:45:00,1039,"I forgot my password, need assistance.",Academic,3.9,13,Yes
+1426,2025-04-06 07:50:00,1013,How can I get a transcript?,Administrative,4.4,27,Yes
+1427,2025-04-06 07:55:00,1097,Is there any scholarship available?,Administrative,3.2,36,Yes
+1428,2025-04-06 08:00:00,1009,"I forgot my password, need assistance.",Financial,4.9,18,Yes
+1429,2025-04-06 08:05:00,1091,How can I get a transcript?,Technical,4.3,20,No
+1430,2025-04-06 08:10:00,1096,My grade has not been updated.,Technical,4.4,31,No
+1431,2025-04-06 08:15:00,1007,"I forgot my password, need assistance.",Technical,3.4,32,Yes
+1432,2025-04-06 08:20:00,1087,I need help with course selection.,Technical,4.6,19,No
+1433,2025-04-06 08:25:00,1053,What is the deadline for fee payment?,Academic,4.2,20,Yes
+1434,2025-04-06 08:30:00,1044,"I forgot my password, need assistance.",Financial,3.4,19,Yes
+1435,2025-04-06 08:35:00,1037,"I forgot my password, need assistance.",Financial,3.1,40,Yes
+1436,2025-04-06 08:40:00,1099,When is the semester starting?,Financial,4.2,28,No
+1437,2025-04-06 08:45:00,1085,Is there any scholarship available?,Academic,4.4,24,Yes
+1438,2025-04-06 08:50:00,1090,I cannot access my student portal.,Administrative,4.9,19,No
+1439,2025-04-06 08:55:00,1040,My grade has not been updated.,Academic,4.0,16,No
+1440,2025-04-06 09:00:00,1019,How do I register for courses?,Financial,4.7,28,Yes
+1441,2025-04-06 09:05:00,1084,"I forgot my password, need assistance.",Technical,3.0,25,Yes
+1442,2025-04-06 09:10:00,1073,How do I register for courses?,Administrative,3.9,42,Yes
+1443,2025-04-06 09:15:00,1020,What is the deadline for fee payment?,Technical,3.4,24,No
+1444,2025-04-06 09:20:00,1091,What is the deadline for fee payment?,Technical,3.5,43,No
+1445,2025-04-06 09:25:00,1042,What is the deadline for fee payment?,Technical,4.8,36,Yes
+1446,2025-04-06 09:30:00,1046,I cannot access my student portal.,Financial,3.5,17,No
+1447,2025-04-06 09:35:00,1064,Is there any scholarship available?,Financial,4.9,40,No
+1448,2025-04-06 09:40:00,1079,When is the semester starting?,Administrative,4.0,38,Yes
+1449,2025-04-06 09:45:00,1017,Website shows error 404.,Academic,4.6,38,No
+1450,2025-04-06 09:50:00,1002,How can I get a transcript?,Academic,3.7,32,No
+1451,2025-04-06 09:55:00,1026,What is the deadline for fee payment?,Technical,4.4,40,No
+1452,2025-04-06 10:00:00,1066,What is the deadline for fee payment?,Administrative,3.9,16,No
+1453,2025-04-06 10:05:00,1075,My grade has not been updated.,Financial,4.3,39,No
+1454,2025-04-06 10:10:00,1086,Is there any scholarship available?,Financial,3.1,43,No
+1455,2025-04-06 10:15:00,1085,Website shows error 404.,Technical,3.0,35,No
+1456,2025-04-06 10:20:00,1064,My grade has not been updated.,Academic,4.2,15,Yes
+1457,2025-04-06 10:25:00,1078,How do I register for courses?,Academic,4.9,27,Yes
+1458,2025-04-06 10:30:00,1008,I need help with course selection.,Financial,4.4,10,No
+1459,2025-04-06 10:35:00,1032,Website shows error 404.,Academic,3.3,38,Yes
+1460,2025-04-06 10:40:00,1015,Is there any scholarship available?,Financial,4.0,16,Yes
+1461,2025-04-06 10:45:00,1056,My grade has not been updated.,Administrative,3.6,43,Yes
+1462,2025-04-06 10:50:00,1041,Is there any scholarship available?,Academic,3.1,34,No
+1463,2025-04-06 10:55:00,1085,How do I register for courses?,Financial,4.0,14,No
+1464,2025-04-06 11:00:00,1033,My grade has not been updated.,Academic,4.6,15,No
+1465,2025-04-06 11:05:00,1082,How do I register for courses?,Administrative,3.3,17,No
+1466,2025-04-06 11:10:00,1062,"I forgot my password, need assistance.",Academic,3.3,32,No
+1467,2025-04-06 11:15:00,1071,When is the semester starting?,Technical,3.5,25,Yes
+1468,2025-04-06 11:20:00,1094,"I forgot my password, need assistance.",Administrative,4.6,12,No
+1469,2025-04-06 11:25:00,1079,Website shows error 404.,Technical,3.0,24,Yes
+1470,2025-04-06 11:30:00,1028,How do I register for courses?,Technical,3.9,38,No
+1471,2025-04-06 11:35:00,1095,I cannot access my student portal.,Financial,4.9,26,Yes
+1472,2025-04-06 11:40:00,1003,When is the semester starting?,Technical,3.7,30,Yes
+1473,2025-04-06 11:45:00,1036,What is the deadline for fee payment?,Financial,3.6,34,No
+1474,2025-04-06 11:50:00,1077,When is the semester starting?,Technical,4.4,11,No
+1475,2025-04-06 11:55:00,1046,How do I register for courses?,Administrative,3.5,15,Yes
+1476,2025-04-06 12:00:00,1002,Is there any scholarship available?,Financial,3.6,28,Yes
+1477,2025-04-06 12:05:00,1071,"I forgot my password, need assistance.",Technical,3.2,40,No
+1478,2025-04-06 12:10:00,1091,I need help with course selection.,Financial,4.5,40,No
+1479,2025-04-06 12:15:00,1064,How can I get a transcript?,Technical,4.3,35,Yes
+1480,2025-04-06 12:20:00,1031,I cannot access my student portal.,Technical,3.8,16,Yes
+1481,2025-04-06 12:25:00,1028,What is the deadline for fee payment?,Academic,4.2,37,Yes
+1482,2025-04-06 12:30:00,1069,When is the semester starting?,Academic,3.1,27,No
+1483,2025-04-06 12:35:00,1064,How can I get a transcript?,Academic,4.0,31,Yes
+1484,2025-04-06 12:40:00,1071,Website shows error 404.,Technical,4.9,14,Yes
+1485,2025-04-06 12:45:00,1059,Website shows error 404.,Technical,3.8,40,No
+1486,2025-04-06 12:50:00,1084,What is the deadline for fee payment?,Academic,3.9,30,No
+1487,2025-04-06 12:55:00,1044,I need help with course selection.,Financial,4.8,37,Yes
+1488,2025-04-06 13:00:00,1049,How can I get a transcript?,Administrative,4.9,13,No
+1489,2025-04-06 13:05:00,1075,Is there any scholarship available?,Financial,3.6,17,No
+1490,2025-04-06 13:10:00,1082,Website shows error 404.,Financial,3.6,22,Yes
+1491,2025-04-06 13:15:00,1011,What is the deadline for fee payment?,Financial,3.1,27,Yes
+1492,2025-04-06 13:20:00,1007,My grade has not been updated.,Administrative,3.1,11,Yes
+1493,2025-04-06 13:25:00,1022,"I forgot my password, need assistance.",Administrative,3.4,19,Yes
+1494,2025-04-06 13:30:00,1040,I cannot access my student portal.,Technical,3.2,15,No
+1495,2025-04-06 13:35:00,1054,How do I register for courses?,Academic,3.7,37,No
+1496,2025-04-06 13:40:00,1033,"I forgot my password, need assistance.",Financial,3.4,29,No
+1497,2025-04-06 13:45:00,1098,When is the semester starting?,Administrative,3.4,36,Yes
+1498,2025-04-06 13:50:00,1006,Website shows error 404.,Financial,3.4,27,No
+1499,2025-04-06 13:55:00,1034,How can I get a transcript?,Academic,4.9,31,No
+1500,2025-04-06 14:00:00,1065,How can I get a transcript?,Administrative,4.1,24,No
