@@ -16,7 +16,6 @@ This project is designed to build an end-to-end machine learning pipeline that e
 - **Predict Service Metrics:** Estimate response times and satisfaction scores.
 - **Discover Hidden Trends:** Use clustering to identify emerging topics and group similar queries.
 - **Ensure Transparency:** Implement model explainability to provide insights into decision-making.
-- **Deploy a Real-Time Dashboard:** Create an interactive front-end for monitoring the system’s performance.
 
 ---
 
