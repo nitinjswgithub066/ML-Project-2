@@ -1,15 +1,22 @@
-# **Project Database Instruction**
+# Intelligent Student Query Advisor and FAQ Enhancer
 
-## **Database Overview**
+## 1. Project Introduction
 
-This branch contains the database for the **_Intelligent Student Query Advisor and FAQ Enhancer_** project. The database is generated using Python's random functions and is stored in **_CSV format_**. It simulates a large set of student query data for training and testing machine learning models.
+### Title
 
----
+Intelligent Student Query Advisor and FAQ Enhancer
 
-## **Database Features**
+### Overview
 
-- **Data Generation:**  
-  The database is programmatically created in Python using random functions to simulate realistic student data.
+This project is designed to build an end-to-end machine learning pipeline that efficiently processes student queries, categorizes them, predicts key service metrics, and uncovers hidden patterns in the data. By integrating both supervised and unsupervised learning techniques along with a robust database, the project aims to improve query resolution, enhance support services, and provide valuable insights for decision-makers.
+
+### Objectives
+
+- **Automate Query Routing:** Categorize incoming student queries into appropriate topics.
+- **Predict Service Metrics:** Estimate response times and satisfaction scores.
+- **Discover Hidden Trends:** Use clustering to identify emerging topics and group similar queries.
+- **Ensure Transparency:** Implement model explainability to provide insights into decision-making.
+- **Deploy a Real-Time Dashboard:** Create an interactive front-end for monitoring the system’s performance.
 
 ---
 
@@ -20,7 +27,7 @@ This branch contains the database for the **_Intelligent Student Query Advisor a
 - Description of the dataset: contains student query records, including timestamps, categories, satisfaction ratings, response times, and resolution status.
 - Explanation of the data source (e.g., CSV files) and what each key column represents.
 
-### Database Integration (Add in future changes)
+### Database Integration
 
 - Overview of how data will be imported into a relational database (e.g., SQLite or MySQL).
 - Discussion about using an ORM or database connectivity tool to manage data persistence.
