@@ -73,7 +73,7 @@ This project is designed to build an end-to-end machine learning pipeline that e
 
 ## 5. Model Explainability
 
-### Rationale for Interpretability
+### Importance of Model Interpretability
 
 - Explain the need for transparency and interpretability in the model’s predictions.
 - Mention the importance of using tools that can provide a clear breakdown of how each feature affects the model's output.
@@ -108,8 +108,36 @@ This project is designed to build an end-to-end machine learning pipeline that e
 
 - Recap the primary achievements: automating query processing, predicting service metrics, and discovering hidden patterns.
 
-### Future Enhancements
+## Future Enhancements
 
-- Potential improvement areas such as the incorporation of deep learning for richer text analysis.
-- Ideas for expanding real-time data ingestion and model retraining workflows.
-- Suggestions for new features in the dashboard, for example, enhanced filtering options or more granular performance metrics.
+- Explore advanced approaches in NLP, such as deep learning models (LSTMs, transformers), to improve text-based query classification.
+- Implement real-time learning methods to continuously fine-tune model performance based on streaming data.
+- **Integrate a dynamic dashboard:** Develop an interactive dashboard using web frameworks like **Django** and **Flask** to provide real-time monitoring, visualization of model performance, and an accessible interface for end-users.
+- Expand the dataset with more comprehensive real-world data to enhance model robustness and generalizability.
+
+---
+
+---
+
+## Workflow Of This Project
+
+- **🔹 Step 1: Define Project Objectives**  
+  Clearly state the purpose of the project and the expected outcomes.
+
+- **🔹 Step 2: Collect & Preprocess Data**  
+  Import the dataset, handle missing values, and transform features as required.
+
+- **🔹 Step 3: Perform Exploratory Data Analysis (EDA)**  
+  Generate visualizations to understand data distributions and uncover relationships.
+
+- **🔹 Step 4: Build Machine Learning Models**  
+  Implement classification, regression, and clustering models to address the project goals.
+
+- **🔹 Step 5: Evaluate & Optimize Models**  
+  Fine-tune the models using metrics like accuracy, precision, recall, and mean squared error.
+
+- **🔹 Step 6: Interpret Results & Generate Insights**  
+  Utilize tools like SHAP for model explainability and apply clustering techniques to discover patterns.
+
+- **🔹 Step 7: Document & Present Findings** **_(IN PPT)_**
+  Prepare comprehensive reports, use Markdown for documentation, and create visual presentations.
