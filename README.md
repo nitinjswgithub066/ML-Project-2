@@ -95,3 +95,7 @@ Below is an example of how the data is structured:
    # Display all rows and column
    stu_query
    ```
+
+---
+
+---
