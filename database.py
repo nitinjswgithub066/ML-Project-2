@@ -37,5 +37,5 @@ for i in range(1, 1501):
     rows.append(row)
 
 df = pd.DataFrame(rows)
-df.to_csv("query data.csv", index=False)
+df.to_csv("query_data.csv", index=False)
 print("CSV file 'synthetic_data_large.csv' generated with 1500 rows.")
