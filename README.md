@@ -97,5 +97,3 @@ Below is an example of how the data is structured:
    ```
 
 ---
-
----
