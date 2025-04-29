@@ -16,7 +16,6 @@ This project is designed to build an end-to-end machine learning pipeline that e
 - **Predict Service Metrics:** Estimate response times and satisfaction scores.
 - **Discover Hidden Trends:** Use clustering to identify emerging topics and group similar queries.
 - **Ensure Transparency:** Implement model explainability to provide insights into decision-making.
-- **Deploy a Real-Time Dashboard:** Create an interactive front-end for monitoring the system’s performance.
 
 ---
 
@@ -115,6 +114,25 @@ This project is designed to build an end-to-end machine learning pipeline that e
 - Implement real-time learning methods to continuously fine-tune model performance based on streaming data.
 - **Integrate a dynamic dashboard:** Develop an interactive dashboard using web frameworks like **Django** and **Flask** to provide real-time monitoring, visualization of model performance, and an accessible interface for end-users.
 - Expand the dataset with more comprehensive real-world data to enhance model robustness and generalizability.
+
+---
+
+---
+
+### These are the sample queries that are **_present_** in the **dataset**. You can use these to test the model:
+
+- What is the deadline for fee payment?
+- How can I get a transcript?
+- I need help with course selection.
+- My grade has not been updated.
+- How do I register for courses?
+- When is the semester starting?
+- I cannot access my student portal.
+- Is there any scholarship available?
+- Website shows error 404.
+- I forgot my password, need assistance.
+
+**_Feel free to use these queries to evaluate the prediction and classification capabilities of the model._**
 
 ---
 
