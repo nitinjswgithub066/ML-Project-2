@@ -165,7 +165,7 @@ This project is designed to build an end-to-end machine learning pipeline that e
   Fine-tune the models using metrics like accuracy, precision, recall, and mean squared error.
 
 - **🔹 Step 6: Interpret Results & Generate Insights**  
-  Utilize tools like SHAP for model explainability and apply clustering techniques to discover patterns.
+  Utilize tools like lime for model explainability and apply clustering techniques to discover patterns. Also use plotly for data visualization.
 
 - **🔹 Step 7: Document & Present Findings** **_(IN PPT)_**
   Prepare comprehensive reports, use Markdown for documentation, and create visual presentations.
