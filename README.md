@@ -84,8 +84,6 @@ This project is designed to build an end-to-end machine learning pipeline that e
 
 ### Tools and Concepts
 
-- **SHAP:**  
-  Describe how it visually outlines the contribution of each feature.
 - **LIME:**  
   Discuss how it provides local explanations, making it easier to understand individual predictions.
 
