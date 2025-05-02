@@ -19,7 +19,7 @@ This project is designed to build an end-to-end machine learning pipeline that e
 
 ### 💭Note:
 
-- Feel free to give your feedback on the future improvements and what features you would like to see added in the future. Please share your thoughts and suggestions!
+- Feel free to give your feedback on the future improvements and what features you would like to see added in the future in this project. Please share your thoughts and suggestions!
 
 ---
 
