@@ -17,6 +17,10 @@ This project is designed to build an end-to-end machine learning pipeline that e
 - **Discover Hidden Trends:** Use clustering to identify emerging topics and group similar queries.
 - **Ensure Transparency:** Implement model explainability to provide insights into decision-making.
 
+### 💭Note:
+
+- Feel free to give your feedback on the future improvements and what features you would like to see added in the future. Please share your thoughts and suggestions!
+
 ---
 
 ## 2. Data Ingestion & Storage
@@ -107,6 +111,13 @@ This project is designed to build an end-to-end machine learning pipeline that e
 ### Summary
 
 - Recap the primary achievements: automating query processing, predicting service metrics, and discovering hidden patterns.
+
+### Conclusion
+
+- The interactive query prediction system successfully classifies student queries and estimates response times using machine learning models.
+- The classification model demonstrates moderate accuracy in assigning queries to predefined categories, while the regression model's performance indicates limitations in reliably predicting response times.
+- Visualizations such as feature importance analysis and response distribution graphs provide deeper insights into model behavior.
+- However, errors like low R² scores and weak correlation in response time predictions highlight the need for further optimization.
 
 ## Future Enhancements
 
